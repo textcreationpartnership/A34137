@@ -1,0 +1,2181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The common-wealths great ship commonly called the Soveraigne of the Seas, built in the yeare, 1637 with a true and exact dimension of her bulk and burden, and those decorements which beautifie and adorne her, with the carving work, figures, and mottoes upon them : shee is besides her tunnage 1637 tuns in burden, shee beareth five lanthorns, the biggest of which will hold ten persons to stand upright, without shouldring or pressing one another, with the names of all the ropes, masts, sailes, and cordage that belong unto a ship : as also the names of all our commanders at sea, the number of men and gunnes which every ship carrieth both in their admirall, vice admirall, and reare-admirall : with all the fights wee have had with the Hollander, since the engagement of Lieutenant-Admirall Trompe neere Dover, against the English fleet under the command of Generall Blake, at the same time that three of their embassadours were here treating of peace : with a perfect rehearsall of an act for encrease of shipping, and encouragement of the navigation of this nation, which so much displeaseth the Hollander.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 84 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34137</idno>
+            <idno type="STC">Wing C5577</idno>
+            <idno type="STC">ESTC R37267</idno>
+            <idno type="EEBO-CITATION">16292579</idno>
+            <idno type="OCLC">ocm 16292579</idno>
+            <idno type="VID">105266</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34137)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105266)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1090:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The common-wealths great ship commonly called the Soveraigne of the Seas, built in the yeare, 1637 with a true and exact dimension of her bulk and burden, and those decorements which beautifie and adorne her, with the carving work, figures, and mottoes upon them : shee is besides her tunnage 1637 tuns in burden, shee beareth five lanthorns, the biggest of which will hold ten persons to stand upright, without shouldring or pressing one another, with the names of all the ropes, masts, sailes, and cordage that belong unto a ship : as also the names of all our commanders at sea, the number of men and gunnes which every ship carrieth both in their admirall, vice admirall, and reare-admirall : with all the fights wee have had with the Hollander, since the engagement of Lieutenant-Admirall Trompe neere Dover, against the English fleet under the command of Generall Blake, at the same time that three of their embassadours were here treating of peace : with a perfect rehearsall of an act for encrease of shipping, and encouragement of the navigation of this nation, which so much displeaseth the Hollander.</title>
+               </titleStmt>
+               <extent>32 p., [2] folded leaves of plates : ill., port.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by M. Simmons for Tho. Jenner ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The Soveraigne of the Seas bvilte in the yeare 1637" ([1] folded leaf of plates at beginning) signed: Ienner scicet 1653.</note>
+                  <note>"A list of the common-wealth of Englands navie at sea, in their expedition in May, 1653. London : Printed by M. Simmons ... and by Tho. Jenner ..., 1653"--[1] folded leaf at end.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sovereign of the Seas (Ship)</term>
+               <term>Anglo-Dutch War, 1652-1654.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105266:1"/>
+            <p>THE <hi>COMMON-WEALTHS</hi> GREAT SHIP Commonly called the SOVERAIGNE of the <hi>SEAS,</hi> built in the yeare, 1637. With a true and exact Dimenſion of her Bulk and Bur<g ref="char:EOLhyphen"/>den, and thoſe Decorements which beautifie and adorne her, with the Carving work, Figures, and Mottoes upon them. <hi>Shee is beſides her Tunnage 1637. Tuns in burden: Shee beareth five Lamhorns, the biggeſt of which will hold ten perſons to ſtand upright, with<g ref="char:EOLhyphen"/>out ſhouldring or preſſing one another. With the names of all the Ropes, Maſts, Sailes, and Cordage that helong unto a SHIP.</hi> As alſo the names of all our Commanders at Sea, the number of Men and Gunnes which every Ship carrieth both in their Admirall, Vice-Admirall, and Reare-Admirall. With all the Fights wee have had with the Hollander, ſince the En<g ref="char:EOLhyphen"/>gagement of Lieutenant-Admirall <hi>Trompe</hi> neere <hi>DOVER,</hi> againſt the Engliſh Fleet under the Command of Generall <hi>Blake,</hi> at the ſame time that three of their Embaſſadours were here treating of PEACE. With a perfect rehearſall of an Act for encreaſe of Shipping, and En<g ref="char:EOLhyphen"/>couragement of the Navigation of this Nation, which ſo much diſpleaſeth the <hi>HOLLANDER.</hi>
+            </p>
+            <q>
+               <hi>Goe not forth haſtily to ſtrive, leaſt thou know not what to doe in the end thereof, when thy neighbour hath put thee to ſhame.</hi>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>M. Simmons,</hi> for <hi>Tho: Jenner,</hi> and are to be ſold at the South Entrance of the Royall Exchange, 1653.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:105266:2"/>
+            <p>
+               <figure>
+                  <figDesc>numbered diagram of a ship or galleon with rigging, flying the flag or ensign of Cromwell's commonwealth</figDesc>
+                  <head>THE SOVERAIGNE OF THE SEAS BVILTE IN THE YEARE 1637</head>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:105266:3"/>
+            <pb facs="tcp:105266:3"/>
+            <head>
+               <hi>The Common-wealths Ship, common<g ref="char:EOLhyphen"/>ly called the</hi> Soveraign <hi>of the Seas, with her bulke, and burden.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">B</seg>EFORE I come to give you a true and exact Dimenſion of her bulke, burden, &amp;c. it is ne<g ref="char:EOLhyphen"/>ceſſary that I make ſome ſatisfaction to the world concerning thoſe Decorements which <hi>beautifie</hi> and <hi>adorne her,</hi> and to render a faire account of mine owne invention concerning the <hi>carving worke,</hi> the <hi>Figures,</hi> and <hi>Mottoes</hi> upon them, which ſome perhaps have too liberally taxed: Thus therefore to any who have formerly either doubted of their propriety, or are at this preſent deſirous to underſtand their imagined obſcurity, I thus freely deliver my ſelfe.</p>
+            <p>Upon the <hi>Beak-head</hi> ſitteth royall King <hi>Edgar</hi> on horſe<g ref="char:EOLhyphen"/>backe, trampling upon ſeven Kings.</p>
+            <p>Concerning thoſe Kings whom you may perceive to lye proſtrate under his Horſes hoofes, they were <hi>Kynadus,</hi> King of the <hi>Scots, Malcolme,</hi> King of <hi>Cumberland;</hi> and of the pet<g ref="char:EOLhyphen"/>ty Kings of <hi>Wales, Dufnall, Grifith, Huvall, Jacob, Judithil.</hi> He moreover ſurprized by Sea a Prince of the <hi>Romans,</hi> whoſe name was <hi>Maxentius,</hi> who had done many out-rages upon the <hi>Ocean,</hi> and was the greateſt Arch-pirate that thoſe times afforded. He alſo compelled <hi>Ludwallus,</hi> prime Prince and King of <hi>Cambria,</hi> which is <hi>Wales,</hi> (becauſe he would have all the ravenous &amp; dammageous Beaſts to be deſtroyed through the Land) to pay unto him yearly by way of Tribute, three
+<pb n="4" facs="tcp:105266:4"/> hundred Wolves skins: by reaſon whereof, within the ſpace of forty yeares after, in <hi>England,</hi> or <hi>Wales,</hi> both which (but eſpecially <hi>Wales)</hi> who before were miſerably infeſted with that kind of beaſt, there was ſcarcely to be fouud one Wolfe alive: and ſo much for the Princes over which he had ſole dominion.</p>
+            <p>
+               <hi>His Navy Royall conſiſted of three thouſand and ſixe hundred Ships, (ſuch as they uſed in thoſe dayes) yet not any of them but ſerviceable either for Fight, or bearing Victuall, and munition, to furniſh the Navy, which he divided into three parts, appointing to every of them a ſeverall ſquadron: and this hee did to ſecure Navi<g ref="char:EOLhyphen"/>gators from</hi> Enemies, <hi>and</hi> Sea-Rovers, <hi>as alſo from all other neighbour Princes, who might challenge any intereſt in theſe our</hi> foure Seas. <hi>And therefore every</hi> Spring <hi>and</hi> Summer, <hi>he in per<g ref="char:EOLhyphen"/>ſon ſayled with thoſe in the Eaſt parts, to them that lay hovering in the</hi> Weſt. <hi>And ſending them backe againe with their Charge, would with the</hi> Weſt ſquadrant, <hi>ſaile into the</hi> North, <hi>and after with the</hi> Northern <hi>Fleet compaſſe into the</hi> Eaſt, <hi>by which the</hi> Maine Ocean <hi>rounding thoſe Iſlands, of which he was ſole</hi> Prince <hi>and</hi> Monarch, <hi>being at his onely charge, both quieted and ſecured, he did (as juſtly he might) write himſelfe</hi> Lord of the foure Seas.</p>
+            <p>I began at the <hi>Beak-head,</hi> where I deſire you to take no<g ref="char:EOLhyphen"/>tice, that upon the ſtemme-head there is <hi>Cupid,</hi> or a Child reſembling him, beſtriding and bridling a <hi>Lyon,</hi> which im<g ref="char:EOLhyphen"/>porteth, <hi>That ſufferance may curbe Inſolence, and Innocence re<g ref="char:EOLhyphen"/>ſtraine violence.</hi>
+            </p>
+            <p>On the Bulk-head right forward, ſtand ſix ſeverall Statues in ſundry poſtures, their Figures repreſenting <hi>Conſilium,</hi> that is, Counſell: <hi>Cura,</hi> that is, Care: <hi>Conamen,</hi> that is, Induſtry, and unanimous indeavour in one compartment: <hi>Counſell</hi> holding in her hand <hi>a cloſed or folded Scrole; Care,</hi> a Sea-com<g ref="char:EOLhyphen"/>paſſe; <hi>Conamen,</hi> or <hi>Induſtry,</hi> a Lint ſtock fixed. Upon the o<g ref="char:EOLhyphen"/>ther, to correſpond with the former, <hi>Vis,</hi> which implyeth <hi>force,</hi> or <hi>ſtrength;</hi> handing a Sword. <hi>Virtus,</hi> or <hi>Vertue,</hi> a ſphearicall Globe: and <hi>Victoria,</hi> or <hi>Victory,</hi> a wreath of <hi>Law<g ref="char:EOLhyphen"/>rell.</hi> The <hi>Morall</hi> is, that in all high Enterprizes there ought to be firſt <hi>Counſell,</hi> to undertake; then <hi>Care,</hi> to manage; and
+<pb n="5" facs="tcp:105266:4"/> 
+               <hi>Induſtry,</hi> to performe; and in the next place, where there is <hi>ability</hi> and <hi>ſtrength</hi> to oppoſe, and <hi>Vertue</hi> to direct, <hi>Victory</hi> conſequently is alwayes at hand, ready to crowne the un<g ref="char:EOLhyphen"/>dertaking.</p>
+            <p>Upon the Hances of the waſte are foure Figures, with their ſeverall properties: <hi>Jupiter</hi> riding upon his <hi>Eagle,</hi> with his <hi>Triſulke</hi> (from which he darteth <hi>Thunder)</hi> in his hand: <hi>Mars</hi> with his <hi>Sword</hi> and <hi>Target,</hi> a <hi>Foxe</hi> being his Embleme: <hi>Nep<g ref="char:EOLhyphen"/>tune</hi> with his <hi>Sea-horſe, Dolphin,</hi> and <hi>Trident:</hi> and laſtly, <hi>Aeo<g ref="char:EOLhyphen"/>lus</hi> upon a <hi>Camelion</hi> (a Beaſt that liveth only by the Ayre) with the <hi>foure Windes,</hi> his Miniſters or Agents, the <hi>Eaſt,</hi> cal'd <hi>Eurus, Subſolanus,</hi> and <hi>Apeliotes:</hi> the <hi>North-winde,</hi> Septentrio, Aquilo, <hi>or</hi> Boreas: <hi>the Weſt,</hi> Zephyrus, Favonius, Lybs, <hi>and</hi> Africus: <hi>the South, Auſter,</hi> or <hi>Notus.</hi>
+            </p>
+            <p>I come now to the Stearn, where you may perceive upon the upright of the upper Counter, ſtandeth <hi>Victory</hi> in the middle of a Frontiſpiece, with this generall motto, <hi>Validis incumbite remus:</hi> It is ſo plain, that I ſhall not need to give it an <hi>Engliſh interpretation:</hi> Her wings are equally diſplayed; on one Arme ſhe weareth a <hi>Crowne,</hi> on the other a <hi>Lawrel,</hi> which imply <hi>Riches</hi> and <hi>Honour:</hi> in her two hands ſhe holdeth two Mottoes; her <hi>right hand,</hi> which pointeth to <hi>Jaſon,</hi> bears this Inſcription, <hi>Nava. Jaſon</hi> being figured with his Oare in his hand, as being the prime <hi>Argonant,</hi> and ſay <hi>Nava,</hi> or more plainly, <hi>Operam nava;</hi> for in thoſe Emblematicall Mottoes, <hi>quod ſubintelligitur, non deeſt.</hi> She pointeth to <hi>Hercules</hi> on the finiſter ſide, with his <hi>Club</hi> in his hand, with this motto, <hi>O</hi> Hercules, <hi>be thou as valiant with thy Club upon the Land, as</hi> Jaſon <hi>is induſtrious with his Oare upon the Water. Hercules</hi> again poin<g ref="char:EOLhyphen"/>ting to <hi>Aeolus,</hi> the god of <hi>Windes,</hi> ſaith <hi>Flato:</hi> who anſwereth him againe, <hi>Flo: Jaſon</hi> pointing to <hi>Neptune,</hi> the god of the Seas (riding upon a <hi>Sea horſe)</hi> ſaith <hi>Favelo;</hi> to whom <hi>Nep<g ref="char:EOLhyphen"/>tune</hi> anſwereth, <hi>No;</hi> Theſe words <hi>Flo,</hi> and <hi>No,</hi> were alſo much excepted at, as if there had been no ſuch Latine words, till ſome better examining their <hi>Gramar Rules,</hi> found out <hi>Flo, flas, flavi,</hi> proper to <hi>Aeolus,</hi> and <hi>No, nas, navi,</hi> to <hi>Neptune,</hi> &amp;c.</p>
+            <pb n="6" facs="tcp:105266:5"/>
+            <p>In the lower Counter of the <hi>Sterne,</hi> on either ſide of the <hi>Helme</hi> is this Inſcription,
+<q>
+                  <l>
+                     <hi>He who Seas, Windes, and Navies doth protect,</hi>
+                  </l>
+                  <l>
+                     <hi>The Soveraign, the great</hi> Ship <hi>in her courſe direct.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>There are other things in this <hi>Veſſell</hi> worthy remarkable, at leaſt, if not admiration; namely, that one <hi>Tree,</hi> or <hi>Oake,</hi> made foure of the <hi>principall beames</hi> of this <hi>great Ship,</hi> which was 44. foote of ſtrong and ſerviceable <hi>Timber</hi> in <hi>length,</hi> three foote <hi>Diametre</hi> at the top, and ten foote <hi>Diametre</hi> at the ſtubb or bottome.</p>
+            <p>Another (as worthy of eſpeciall obſervation is) that one piece of Timber which made the <hi>Kel-ſon,</hi> was ſo great and weighty, that 28. <hi>Oxen,</hi> and foure <hi>Horſes,</hi> with much difficulty drew it from the place where it grew, and from whence it was cut downe, unto the water-ſide.</p>
+            <p>There is one thing above all theſe for the world to take e<g ref="char:EOLhyphen"/>ſpeciall notice of, that <hi>ſhee</hi> is, beſides her <hi>Tunnage,</hi> juſt ſo many <hi>Tuns</hi> in burden, as there have been years ſince our <hi>Bleſ<g ref="char:EOLhyphen"/>ſed Saviours Incarnation,</hi> namely, 1637. and not one under, or over: A moſt happy <hi>Omen,</hi> which though it was not at the firſt projected or intended, is now by true computation found ſo to happen.</p>
+            <p>It would be too tedious to inſiſt upon every Ornament belonging to this incomparable <hi>Veſſell,</hi> yet thus much con<g ref="char:EOLhyphen"/>cerning Her outward appearance; She hath two Galleries of a ſide, and all of moſt curious carved Worke, and all the ſides of the <hi>ſhipp</hi> are carved alſo with <hi>Trophies</hi> of <hi>Artyllerie</hi> and <hi>Types</hi> of honour, as well belonging to Land as Sea, with Symboles, Emblemes, and Impreſſes appertaining to the <hi>Art of Navigation:</hi> and thus much in a ſuccinct way. I have deli<g ref="char:EOLhyphen"/>vered unto you concerning her inward and outward De<g ref="char:EOLhyphen"/>corements; I come now to deſcribe her in her exect Dimen<g ref="char:EOLhyphen"/>ſion.</p>
+            <p>Her length by the Keele is 128. foote, or thereabout, with<g ref="char:EOLhyphen"/>in ſome few inches. Her mayne breadth or wideneſſe from ſide to ſide 48. foote. Her utmoſt length from the fore-end of the <hi>Beake-head,</hi> unto the after end of the Sterne, <hi>a prora ad pup<g ref="char:EOLhyphen"/>pim,</hi>
+               <pb n="7" facs="tcp:105266:5"/> 232. foote; Shee is in height from the bottome of her Keele to the top of her <hi>Lanthorne,</hi> ſeventy ſixe foot, ſhe bea<g ref="char:EOLhyphen"/>reth five <hi>Lanthorns,</hi> the biggeſt of which will hold ten per<g ref="char:EOLhyphen"/>ſons to ſtand upright, and without ſhouldring or preſſing one the other.</p>
+            <p>Shee hath three fluſh Deckes, and a Fore-Caſtle, an halfe Decke, a quarter Deck, and a round-houſe. <hi>Her</hi> lower <hi>Tyre</hi> hath thirty ports, which are to be furniſhed with Demy-Conon and whole Canon throughout, being able to beare them. Her middle <hi>Tyre</hi> hath alſo thirty ports for Demi-Culverin, and whole Culverin. Her third <hi>Tyre</hi> hath 26. ports for other Ordnance; her Fore-Caſtle hath twelve ports, and her halfe Decke hath fourteen ports; Shee hath thirteene or fourteene ports more within board for murder<g ref="char:EOLhyphen"/>ing peeces, beſides a great many Loop holes out of the Ca<g ref="char:EOLhyphen"/>bins for Musket-ſhot. She carrieth moreover tenne peeces of chaſe <hi>Ordnance</hi> in her, right forward, and ten right off, that is according to Land-ſervice in the front and the reare. She carrieth eleven <hi>Anchors,</hi> one of them weighing foure thou<g ref="char:EOLhyphen"/>ſand foure hundred, <hi>&amp;c.</hi> and according to theſe are her Ca<g ref="char:EOLhyphen"/>bles, Maſts, Sayles, and Cordage.</p>
+            <p>I come now to give you a particular Denomination of the prime Work-men employed in this inimitable Fabrick; as firſt Captaine <hi>Phines Pett,</hi> Over-ſeer of the Work, and one of the Principall Officers; of whoſe knowledge, experience, and judgment, I cannot render a merited <hi>Character.</hi>
+            </p>
+            <p>The Maſter <hi>Builder</hi> is young Mr. <hi>Peter Pett,</hi> the moſt inge<g ref="char:EOLhyphen"/>nuous ſonne of ſo much improved a <hi>Father,</hi> who before he was full 25. yeares of age, made the <hi>Modell,</hi> and ſince hath perfected the <hi>worke,</hi> which hath won not only the <hi>approbati<g ref="char:EOLhyphen"/>on,</hi> but <hi>admiration</hi> of all men, of whom I may truly ſay, as <hi>Horace</hi> did of <hi>Argus,</hi> that famous <hi>Ship-maſter,</hi> (Who built the great <hi>Argo</hi> in which the <hi>Grecian</hi> Princels Rowed through the <hi>Helle ſpont</hi> to fetch the <hi>goleen Fleece</hi> from <hi>Colchos.</hi>
+            </p>
+            <p>
+               <hi>Pallas</hi> her ſelf flew into his boſome, and not only enjoyn'd him to the undertaking, but inſpired him in the managing of ſo exquiſite anabſolute an <hi>Architecture.</hi>
+            </p>
+         </div>
+         <div type="table_of_ship_parts_and_rigging">
+            <pb n="8" facs="tcp:105266:6"/>
+            <head>The names of all the Roapes, Maſts, Sails, and Cordage that belong unto a Ship.</head>
+            <list>
+               <item>1. <hi>ANchor. Anchor<g ref="char:EOLhyphen"/>ſtocke.</hi>
+               </item>
+               <item>
+                  <hi>An Awning.</hi>
+               </item>
+               <item>
+                  <hi>Axell-tree.</hi>
+               </item>
+               <item>
+                  <hi>Ballaſt.</hi>
+               </item>
+               <item>3. <hi>The Beak or Beak<g ref="char:EOLhyphen"/>head.</hi>
+               </item>
+               <item>
+                  <hi>Beame.</hi>
+               </item>
+               <item>
+                  <hi>Bedds.</hi>
+               </item>
+               <item>4 <hi>A Bend.</hi>
+               </item>
+               <item>
+                  <hi>A Berth.</hi>
+               </item>
+               <item>
+                  <hi>5 Blocks.</hi>
+               </item>
+               <item>6 <hi>A Boalt roape.</hi>
+               </item>
+               <item>7 <hi>Bolt ſprit.</hi>
+               </item>
+               <item>8 <hi>A Bonnet.</hi>
+               </item>
+               <item>
+                  <hi>A Boome.</hi>
+               </item>
+               <item>9 <hi>The Bowe.</hi>
+               </item>
+               <item>
+                  <hi>A Bower.</hi>
+               </item>
+               <item>
+                  <hi>Brackets.</hi>
+               </item>
+               <item>10 <hi>Braſes.</hi>
+               </item>
+               <item>11 <hi>Brayles.</hi>
+               </item>
+               <item>
+                  <hi>Breech &amp; breech<g ref="char:EOLhyphen"/>ing.</hi>
+               </item>
+               <item>
+                  <hi>Breſt-Roapes.</hi>
+               </item>
+               <item>
+                  <hi>A Buoy.</hi>
+               </item>
+               <item>12 A <hi>Buttocke,</hi>
+               </item>
+               <item>
+                  <hi>A Cabell.</hi>
+               </item>
+               <item>
+                  <hi>Caburne.</hi>
+               </item>
+               <item>13 <hi>The Cap.</hi>
+               </item>
+               <item>
+                  <hi>The Cap-ſtaine.</hi>
+               </item>
+               <item>
+                  <hi>Cap ſtainebars.</hi>
+               </item>
+               <item>
+                  <hi>Carlings.</hi>
+               </item>
+               <item>
+                  <hi>A Carriage.</hi>
+               </item>
+               <item>
+                  <hi>Carnels.</hi>
+               </item>
+               <item>A <hi>Caſe.</hi>
+               </item>
+               <item>
+                  <hi>Caskets.</hi>
+               </item>
+               <item>
+                  <hi>Catharpings.</hi>
+               </item>
+               <item>14 <hi>Catt.</hi>
+               </item>
+               <item>15 <hi>Cat-holes or houcks.</hi>
+               </item>
+               <item>
+                  <hi>Cheekes.</hi>
+               </item>
+               <item>
+                  <hi>Cheteres.</hi>
+               </item>
+               <item>
+                  <hi>Clamps.</hi>
+               </item>
+               <item>A <hi>Cleate.</hi>
+               </item>
+               <item>
+                  <hi>Clew.</hi>
+               </item>
+               <item>16 <hi>Clew-garnet.</hi>
+               </item>
+               <item>17 <hi>Clew-line.</hi>
+               </item>
+               <item>
+                  <hi>A Clincher.</hi>
+               </item>
+               <item>
+                  <hi>Cockes.</hi>
+               </item>
+               <item>18 <hi>The Collar.</hi>
+               </item>
+               <item>
+                  <hi>The Combe.</hi>
+               </item>
+               <item>
+                  <hi>Cooke-Room.</hi>
+               </item>
+               <item>
+                  <hi>Cordage.</hi>
+               </item>
+               <item>19 <hi>Counter.</hi>
+               </item>
+               <item>
+                  <hi>A Crabb.</hi>
+               </item>
+               <item>
+                  <hi>A Cradle.</hi>
+               </item>
+               <item>
+                  <hi>Cringles.</hi>
+               </item>
+               <item>20 <hi>Croſ-Jack.</hi>
+               </item>
+               <item>21 <hi>Croſ-tree.</hi>
+               </item>
+               <item>22 <hi>Crow-feet.</hi>
+               </item>
+               <item>
+                  <hi>Cubbridg head.</hi>
+               </item>
+               <item>
+                  <hi>The Davit.</hi>
+               </item>
+               <item>23 <hi>Deadmen-eys.</hi>
+               </item>
+               <item>24 <hi>Deck.</hi>
+               </item>
+               <item>
+                  <hi>Deep-ſee-lead.</hi>
+               </item>
+               <item>
+                  <hi>Deep-ſee-line.</hi>
+               </item>
+               <item>
+                  <hi>Dock.</hi>
+               </item>
+               <item>
+                  <hi>A Drabler.</hi>
+               </item>
+               <item>
+                  <hi>Draggs.</hi>
+               </item>
+               <item>
+                  <hi>A Drift-ſaile.</hi>
+               </item>
+               <item>
+                  <hi>Duck up.</hi>
+               </item>
+               <item>25 <hi>Earing.</hi>
+               </item>
+               <item>
+                  <hi>Entring-ladder.</hi>
+               </item>
+               <item>
+                  <hi>Entring-roape.</hi>
+               </item>
+               <item>
+                  <hi>Eyes.</hi>
+               </item>
+               <item>
+                  <hi>Eylet-holes.</hi>
+               </item>
+               <item>26 <hi>A Facke.</hi>
+               </item>
+               <item>27 <hi>The Farthell.</hi>
+               </item>
+               <item>
+                  <hi>Fartheling lines.</hi>
+               </item>
+               <item>
+                  <hi>Fidd. Fammer.</hi>
+               </item>
+               <item>
+                  <hi>The Fiſh.</hi>
+               </item>
+               <item>26 <hi>Flaggs.</hi>
+               </item>
+               <pb n="9" facs="tcp:105266:6"/>
+               <item>27 <hi>The Flook.</hi>
+               </item>
+               <item>
+                  <hi>The Flowr.</hi>
+               </item>
+               <item>
+                  <hi>Fluſh.</hi>
+               </item>
+               <item>
+                  <hi>The Flye.</hi>
+               </item>
+               <item>28 <hi>Fore-maſt.</hi>
+               </item>
+               <item>29 <hi>Fore-ſail.</hi>
+               </item>
+               <item>30 <hi>Fore-top-maſt.</hi>
+               </item>
+               <item>31 <hi>Fore-top-yard.</hi>
+               </item>
+               <item>32 <hi>Fore-yard.</hi>
+               </item>
+               <item>
+                  <hi>Futtocks.</hi>
+               </item>
+               <item>
+                  <hi>The Garboord.</hi>
+               </item>
+               <item>33 <hi>The Garnet.</hi>
+               </item>
+               <item>
+                  <hi>Girt.</hi>
+               </item>
+               <item>
+                  <hi>Gooſe-wing.</hi>
+               </item>
+               <item>
+                  <hi>Grapnell.</hi>
+               </item>
+               <item>
+                  <hi>A Gripe.</hi>
+               </item>
+               <item>
+                  <hi>Gromets.</hi>
+               </item>
+               <item>
+                  <hi>A Guge.</hi>
+               </item>
+               <item>
+                  <hi>Hallyards.</hi>
+               </item>
+               <item>34 <hi>The Hawſes.</hi>
+               </item>
+               <item>
+                  <hi>A Hawſes.</hi>
+               </item>
+               <item>
+                  <hi>Head-lines.</hi>
+               </item>
+               <item>35 <hi>Head ſailes.</hi>
+               </item>
+               <item>
+                  <hi>Head-ſea.</hi>
+               </item>
+               <item>
+                  <hi>The Helme.</hi>
+               </item>
+               <item>
+                  <hi>Honey-Comb.</hi>
+               </item>
+               <item>
+                  <hi>The Hookes.</hi>
+               </item>
+               <item>
+                  <hi>A Horſe.</hi>
+               </item>
+               <item>
+                  <hi>A Hullock.</hi>
+               </item>
+               <item>
+                  <hi>The Jeere.</hi>
+               </item>
+               <item>
+                  <hi>The Jeere-Cap<g ref="char:EOLhyphen"/>ſtaine.</hi>
+               </item>
+               <item>
+                  <hi>A Juncke.</hi>
+               </item>
+               <item>
+                  <hi>A Jury-maſt.</hi>
+               </item>
+               <item>A <hi>Kedger.</hi>
+               </item>
+               <item>
+                  <hi>The Keele.</hi>
+               </item>
+               <item>
+                  <hi>The Keel-Roap.</hi>
+               </item>
+               <item>
+                  <hi>Keeleſon.</hi>
+               </item>
+               <item>
+                  <hi>The Knave-line.</hi>
+               </item>
+               <item>
+                  <hi>Knees.</hi>
+               </item>
+               <item>
+                  <hi>Kneetles.</hi>
+               </item>
+               <item>
+                  <hi>The Knights.</hi>
+               </item>
+               <item>
+                  <hi>Knots.</hi>
+               </item>
+               <item>
+                  <hi>Ladder.</hi>
+               </item>
+               <item>36. A <hi>land-Turne.</hi>
+               </item>
+               <item>
+                  <hi>A Langrell.</hi>
+               </item>
+               <item>
+                  <hi>Lasking.</hi>
+               </item>
+               <item>
+                  <hi>Latchets.</hi>
+               </item>
+               <item>
+                  <hi>Ledges.</hi>
+               </item>
+               <item>
+                  <hi>The lec-fauge.</hi>
+               </item>
+               <item>
+                  <hi>The Leetch.</hi>
+               </item>
+               <item>
+                  <hi>Leetch-lines.</hi>
+               </item>
+               <item>36 <hi>Legges.</hi>
+               </item>
+               <item>
+                  <hi>Lines pins.</hi>
+               </item>
+               <item>
+                  <hi>Lockers.</hi>
+               </item>
+               <item>
+                  <hi>A Logg-line.</hi>
+               </item>
+               <item>
+                  <hi>The Loofe.</hi>
+               </item>
+               <item>A <hi>loofe-hooke.</hi>
+               </item>
+               <item>A <hi>Luſt.</hi>
+               </item>
+               <item>
+                  <hi>The Manger.</hi>
+               </item>
+               <item>
+                  <hi>Marling.</hi>
+               </item>
+               <item>
+                  <hi>Marling-ſpeeke.</hi>
+               </item>
+               <item>
+                  <hi>Martnets.</hi>
+               </item>
+               <item>
+                  <hi>Maſts.</hi>
+               </item>
+               <item>37 <hi>The miſen.</hi>
+               </item>
+               <item>38 <hi>The miſen-maſt.</hi>
+               </item>
+               <item>37 <hi>The miſen-ſaile</hi>
+               </item>
+               <item>39 <hi>The miſſen-top<g ref="char:EOLhyphen"/>maſt.</hi>
+               </item>
+               <item>40 <hi>The miſſen-yard</hi>
+               </item>
+               <item>
+                  <hi>Munck-ſeame.</hi>
+               </item>
+               <item>
+                  <hi>The Needle.</hi>
+               </item>
+               <item>
+                  <hi>Nettings.</hi>
+               </item>
+               <item>
+                  <hi>Netting-ſailes.</hi>
+               </item>
+               <item>
+                  <hi>Nippers.</hi>
+               </item>
+               <item>
+                  <hi>Out Licker.</hi>
+               </item>
+               <item>
+                  <hi>Oze, or Ozie.</hi>
+               </item>
+               <item>A <hi>Pantch.</hi>
+               </item>
+               <item>A <hi>Bardude.</hi>
+               </item>
+               <item>
+                  <hi>Parrells.</hi>
+               </item>
+               <item>
+                  <hi>The Partners.</hi>
+               </item>
+               <item>A <hi>Paſſaredo.</hi>
+               </item>
+               <item>
+                  <hi>The Paule.</hi>
+               </item>
+               <item>A <hi>Peeke.</hi>
+               </item>
+               <item>41 <hi>Pendants.</hi>
+               </item>
+               <item>
+                  <hi>The Pillow.</hi>
+               </item>
+               <item>A <hi>Pintell.</hi>
+               </item>
+               <item>42 <hi>The Poope.</hi>
+               </item>
+               <item>A <hi>Port.</hi>
+               </item>
+               <item>
+                  <hi>Powches.</hi>
+               </item>
+               <item>
+                  <hi>The Prowe.</hi>
+               </item>
+               <item>
+                  <hi>Priming.</hi>
+               </item>
+               <item>
+                  <hi>Puddings.</hi>
+               </item>
+               <item>
+                  <hi>Pullies.</hi>
+               </item>
+               <item>
+                  <hi>Pumps.</hi>
+               </item>
+               <item>
+                  <hi>The Pumb-break.</hi>
+               </item>
+               <item>
+                  <hi>The Pump-Can.</hi>
+               </item>
+               <item>
+                  <hi>The Pump Dale.</hi>
+               </item>
+               <item>43 <hi>Puttocks.</hi>
+               </item>
+               <item>44 <hi>Quarter-Deck.</hi>
+               </item>
+               <item>A <hi>Quoyle.</hi>
+               </item>
+               <item>
+                  <hi>Quoyns.</hi>
+               </item>
+               <item>
+                  <hi>Ram-head.</hi>
+               </item>
+               <pb n="10" facs="tcp:105266:7"/>
+               <item>
+                  <hi>Ranges.</hi>
+               </item>
+               <item>
+                  <hi>Ribbs.</hi>
+               </item>
+               <item>
+                  <hi>To Ride.</hi>
+               </item>
+               <item>
+                  <hi>Riders.</hi>
+               </item>
+               <item>
+                  <hi>Rigging.</hi>
+               </item>
+               <item>
+                  <hi>Ring-bolts.</hi>
+               </item>
+               <item>
+                  <hi>The Riſings.</hi>
+               </item>
+               <item>
+                  <hi>Riſing-timbers.</hi>
+               </item>
+               <item>
+                  <hi>A Road.</hi>
+               </item>
+               <item>
+                  <hi>A Roader.</hi>
+               </item>
+               <item>
+                  <hi>45 Roaps.</hi>
+               </item>
+               <item>
+                  <hi>Roap-yarnes.</hi>
+               </item>
+               <item>
+                  <hi>Robbins.</hi>
+               </item>
+               <item>
+                  <hi>Roofe-trees.</hi>
+               </item>
+               <item>
+                  <hi>46 The Round-houſe</hi>
+               </item>
+               <item>
+                  <hi>The Rowle.</hi>
+               </item>
+               <item>
+                  <hi>47 The Rudder.</hi>
+               </item>
+               <item>
+                  <hi>The rudder-roap.</hi>
+               </item>
+               <item>
+                  <hi>Rudder-irons.</hi>
+               </item>
+               <item>
+                  <hi>The Run.</hi>
+               </item>
+               <item>
+                  <hi>Rung-heads.</hi>
+               </item>
+               <item>
+                  <hi>The Rungs.</hi>
+               </item>
+               <item>
+                  <hi>The Runner.</hi>
+               </item>
+               <item>
+                  <hi>48 Sailes.</hi>
+               </item>
+               <item>
+                  <hi>A Sacrfe.</hi>
+               </item>
+               <item>
+                  <hi>A Scuttle.</hi>
+               </item>
+               <item>
+                  <hi>A Seele.</hi>
+               </item>
+               <item>
+                  <hi>Shackles.</hi>
+               </item>
+               <item>
+                  <hi>The Shancke.</hi>
+               </item>
+               <item>
+                  <hi>Shanck-painter.</hi>
+               </item>
+               <item>
+                  <hi>Shearing.</hi>
+               </item>
+               <item>
+                  <hi>49 Sheats.</hi>
+               </item>
+               <item>
+                  <hi>Shoars.</hi>
+               </item>
+               <item>
+                  <hi>Shoar.</hi>
+               </item>
+               <item>
+                  <hi>Shot.</hi>
+               </item>
+               <item>
+                  <hi>Showle.</hi>
+               </item>
+               <item>
+                  <hi>50 Shrowds.</hi>
+               </item>
+               <item>
+                  <hi>The Sillinder.</hi>
+               </item>
+               <item>
+                  <hi>Sinnet.</hi>
+               </item>
+               <item>
+                  <hi>The Skeg.</hi>
+               </item>
+               <item>
+                  <hi>The Skiff.</hi>
+               </item>
+               <item>
+                  <hi>Skupper, or skup<g ref="char:EOLhyphen"/>per-holes.</hi>
+               </item>
+               <item>
+                  <hi>Skupper-leathers.</hi>
+               </item>
+               <item>
+                  <hi>Skupper-nailes.</hi>
+               </item>
+               <item>
+                  <hi>A Selatch.</hi>
+               </item>
+               <item>
+                  <hi>Sleepers.</hi>
+               </item>
+               <item>
+                  <hi>Slings.</hi>
+               </item>
+               <item>
+                  <hi>A ſmitting-line.</hi>
+               </item>
+               <item>
+                  <hi>A ſnatch-block.</hi>
+               </item>
+               <item>
+                  <hi>Sockets.</hi>
+               </item>
+               <item>
+                  <hi>Sounding-line.</hi>
+               </item>
+               <item>
+                  <hi>A ſpindle.</hi>
+               </item>
+               <item>
+                  <hi>Spit.</hi>
+               </item>
+               <item>
+                  <hi>51 Sprit-ſaile.</hi>
+               </item>
+               <item>
+                  <hi>52 Sprit-ſaile-top<g ref="char:EOLhyphen"/>ſaile.</hi>
+               </item>
+               <item>
+                  <hi>53 Sprit-ſaile-top<g ref="char:EOLhyphen"/>maſt.</hi>
+               </item>
+               <item>
+                  <hi>54 Sprit-ſaile-yard.</hi>
+               </item>
+               <item>
+                  <hi>Spung-yarn.</hi>
+               </item>
+               <item>
+                  <hi>55 Stayes, &amp; back<g ref="char:EOLhyphen"/>ſtayes.</hi>
+               </item>
+               <item>
+                  <hi>56 The ſtern.</hi>
+               </item>
+               <item>
+                  <hi>Stern-ſhevts.</hi>
+               </item>
+               <item>
+                  <hi>The ſteeridg.</hi>
+               </item>
+               <item>
+                  <hi>57 The ſtem.</hi>
+               </item>
+               <item>
+                  <hi>A ſtepp.</hi>
+               </item>
+               <item>
+                  <hi>Stoaked.</hi>
+               </item>
+               <item>
+                  <hi>A ſtake.</hi>
+               </item>
+               <item>
+                  <hi>A ſtrap.</hi>
+               </item>
+               <item>
+                  <hi>A ſtream-anchor.</hi>
+               </item>
+               <item>
+                  <hi>Stream Cable.</hi>
+               </item>
+               <item>
+                  <hi>A ſtretch.</hi>
+               </item>
+               <item>
+                  <hi>Studding-ſailes.</hi>
+               </item>
+               <item>
+                  <hi>A ſturrop.</hi>
+               </item>
+               <item>
+                  <hi>Swiſters.</hi>
+               </item>
+               <item>
+                  <hi>58 Tackes.</hi>
+               </item>
+               <item>
+                  <hi>To tack a ſhip.</hi>
+               </item>
+               <item>
+                  <hi>59 Tackles.</hi>
+               </item>
+               <item>
+                  <hi>Talle.</hi>
+               </item>
+               <item>
+                  <hi>Tamkin.</hi>
+               </item>
+               <item>
+                  <hi>Tapering.</hi>
+               </item>
+               <item>
+                  <hi>Thight.</hi>
+               </item>
+               <item>
+                  <hi>Thwart-ſhips.</hi>
+               </item>
+               <item>
+                  <hi>Ties.</hi>
+               </item>
+               <item>
+                  <hi>Top-armors.</hi>
+               </item>
+               <item>
+                  <hi>Top-Gallants.</hi>
+               </item>
+               <item>
+                  <hi>Top-Maſt.</hi>
+               </item>
+               <item>
+                  <hi>Top-Roaps.</hi>
+               </item>
+               <item>
+                  <hi>To Tow.</hi>
+               </item>
+               <item>
+                  <hi>The Tuck.</hi>
+               </item>
+               <item>
+                  <hi>A Violl.</hi>
+               </item>
+               <item>
+                  <hi>A Warp.</hi>
+               </item>
+               <item>
+                  <hi>Waſt-Board.</hi>
+               </item>
+               <item>
+                  <hi>Waſt cloaths.</hi>
+               </item>
+               <item>
+                  <hi>Whoodings.</hi>
+               </item>
+               <item>
+                  <hi>A Worme.</hi>
+               </item>
+               <item>
+                  <hi>Wormings.</hi>
+               </item>
+               <item>
+                  <hi>A Yard.</hi>
+               </item>
+               <item>
+                  <hi>A Yawe.</hi>
+               </item>
+               <item>
+                  <hi>A Yoake.</hi>
+               </item>
+               <item>
+                  <hi>60 A Jacke.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="account">
+            <pb n="11" facs="tcp:105266:7"/>
+            <head>
+               <hi>A Narrative of the late Engagement between the Engliſh Fleet under the Command of Ge<g ref="char:EOLhyphen"/>nerall</hi> Blake, <hi>and the Holland Fleet under the Command of Lieuteiant Admiral</hi> Trump <hi>neer</hi> Dover.</head>
+            <figure>
+               <figDesc>portrait of Maartin Tromp, probably by Wenceslaus Hollar (per the National Portrait Gallery, London)</figDesc>
+               <head>Martin Tromp, Admirall of Holland &amp; Weſt-frieſland.</head>
+            </figure>
+            <p>VPON <hi>Tueſday</hi> the 18. of <hi>May,</hi> 1652. in the morn<g ref="char:EOLhyphen"/>ing, General <hi>Blake</hi> being gone to the Weſt-ward, as far as <hi>Rye</hi> Bay eight dayes before, with twelve or thirteen Ships, leaving Major <hi>Bourn</hi> in the <hi>Downs</hi> with eight Ships only, there appeared upon the back ſide of the <hi>Goodwin,</hi> a <hi>Holland</hi> Fleet of Men of War, conſiſting of two and forty Ships, one whereof had a Flagg on the main-top-Maſt head, the reſt Jacks and Ancients; and being come unto the South-ſands head, two of them bore up towards the En<g ref="char:EOLhyphen"/>gliſh Ships in the <hi>Downs,</hi> whereupon Major <hi>Bourn</hi> ſent out the
+<pb n="12" facs="tcp:105266:8"/> 
+               <hi>Greyhound</hi> to examine them, and to know the reaſon of their ſo near approach; who anſwering, That they had a Meſſage to the Commander in Chief in the <hi>Downes,</hi> were permitted to come in; and having ſaluted the Flag, the two Captains, named <hi>Tyſon</hi> and <hi>Aldred</hi> came aboard the ſayd Major <hi>Bourn,</hi> and acquanted him that they were ſent by <hi>Van Trump,</hi> to let him know that he had been Riding about <hi>Dunkirke</hi> with His Fleet, where by reaſon of foule Weather they had loſt many of their Cables and Anchors, and the wind being <hi>Northerly,</hi> were driven more to the <hi>Southward</hi> then they intended, which <hi>Van Trump</hi> thought fit to ſignifie, to prevent any miſ-appre<g ref="char:EOLhyphen"/>henſions or Jealouſies. And having ſaid this, and received for anſwer, That the Reality of what they ſaid would beſt appear by their ſpeedy drawing off from this Coaſt, they de<g ref="char:EOLhyphen"/>parted to their Fleet; and immediately upon their arrivall with them, the whole Fleet ſtood up to <hi>Dover,</hi> and came to an Anchor within little more then ſhot of the Caſtle the ſame day in the afternoon. Upon their coming before <hi>Dover</hi> Ca<g ref="char:EOLhyphen"/>ſtle, and Riding there with Flag in the Main-top, without ſaluting the Caſtle, the Caſtle made three ſhot at them; not<g ref="char:EOLhyphen"/>withſtanding which, the <hi>Dutch</hi> Admirall kept up his Flagg, and rode there at <hi>Anchor</hi> until the next day noon, and exer<g ref="char:EOLhyphen"/>ciſed his Muſquetiers, by diſcharging volleys of ſmall ſhot many houres together. Upon <hi>Wedneſday</hi> about twelve a clock the <hi>Dutch</hi> Fleet weighed Anchor, and ſtood off towards <hi>Calice</hi> ſome four Leagues into the <hi>South-eaſt;</hi> about the ſame time the <hi>Engliſh</hi> Fleet under General <hi>Blake</hi> coming from the Weſt towards the <hi>Downes,</hi> diſcovered them, and ſuppoſed by their courſe they had been going back; Major <hi>Bourn</hi> likewiſe was in ſight, coming from the <hi>Downs</hi> to joyn with Generall <hi>Blake.</hi> About an hour or two after, the <hi>Holland</hi> Fleet altered their courſe, came back again, made all the Saile they could, and bore directly with Generall <hi>Blake, Van Trump</hi> the head<g ref="char:EOLhyphen"/>moſt with his Flag in the Main-top; and being come within ſhot, the Generall ſhot a Gun at his Main-top, and then two ſingle ſhot more: whereupon <hi>Trump</hi> ſhot a ſingle ſhot through the Generals Flag, and then immediately gave the firſt Broad ſide, and took in his Pendants, and hung out his Red Flagg
+<pb n="13" facs="tcp:105266:8"/> under the <hi>Holland</hi> Colours, which was the Signal on their part for their whole Fleet to engage, and ſo the Fight began, which happened between four and five a clock in the after<g ref="char:EOLhyphen"/>noon, and continued until nine of the clock. In the Fight the <hi>Engliſh</hi> took two of the <hi>Holland</hi> Fleet, one whereof having ſix foot water in the Hold they left, taking the Captain and Officers aboard, the other being a Ship of thirty Guns. Ge<g ref="char:EOLhyphen"/>nerall <hi>Blake</hi> lay all night where the Fight began, or neere thereabouts, and the Holland Fleet was eſpyed about foure Leagues diſtant towards the Coaſt of <hi>France</hi> next morning.</p>
+            <p>The truth of this Relation appears in the Letters of Gene<g ref="char:EOLhyphen"/>rall <hi>Blake,</hi> Major <hi>Bourn,</hi> and others in the Action, by the Examinations of the <hi>Dutch</hi> Captains, and other Officers ta<g ref="char:EOLhyphen"/>ken in the Fight:</p>
+            <p>And whereas <hi>Van Trump</hi> in the accompt he gives of this A<g ref="char:EOLhyphen"/>ction, makes the occaſion of his coming back upon the <hi>Engl<g ref="char:EOLhyphen"/>iſh</hi> Fleet, the guarding of ſome Merchant men richly laden from the <hi>Streights,</hi> which had been in fight with ſome of our Frigots: That action is ſet down in a letter written by Cap<g ref="char:EOLhyphen"/>tain <hi>Young,</hi> whereby the occaſion, beginning and ending thereof is declared: And beſides, theſe very ſhips which hee pretends to come to protect or reſcue, upon Saturday be<g ref="char:EOLhyphen"/>fore had paſſed by General <hi>Blake,</hi> and were gone to the Eaſt<g ref="char:EOLhyphen"/>ward.</p>
+            <div type="letter">
+               <head>
+                  <hi>Generall</hi> Blake's <hi>Letter.</hi>
+               </head>
+               <opener>
+                  <salute>Right Honourable,</salute>
+               </opener>
+               <p>I Have diſpatched away this Expreſs to your Honours, to give you an account of what paſt yeſterday between us and the <hi>Dutch Fleet</hi> being in <hi>Rye Bay;</hi> I received Intelligence from Major <hi>Bourne,</hi> that <hi>Van Trump</hi> with forty Saile was off the South-ſand head, whereupon I made all poſſible ſpeed to ply up towards them, &amp; yeſterday in the morning we ſaw them at Anchor in and near <hi>Dover-Road;</hi> being come within three leagues of them, they weighed and ſtood away by a winde to
+<pb n="14" facs="tcp:105266:9"/> the <hi>Eaſtward:</hi> We ſuppoſing their intention was to leave us to avoid the diſpute of the Flag; about two hours after they al<g ref="char:EOLhyphen"/>tered their courſe, and bore directly with us, <hi>Van Trump</hi> the headmoſt, whereupon wee lay by, and put our ſelves into a fighting poſture, judging they had a reſolution to ingage be<g ref="char:EOLhyphen"/>ing come within Musket ſhot, I gave order to fire at his flag, which was done thrice, after the third ſhot he let flie a Broad ſide at us; Major <hi>Bourn,</hi> with thoſe Ships that came from the <hi>Downs,</hi> being eight, was then makingtowards us, we conti<g ref="char:EOLhyphen"/>nued fighting till night, then our Ship being unable to ſaile, by reaſon that all our Rigging and Sailes were extreamely ſhattered, our Mizen-Maſt ſhot off, we came with advice of the Captains to an Anchor about 3. or 4. Leagues of the Neſs to refit our Ship, at which we laboured all the night; this morning we eſpyed the <hi>Dutch Fleet</hi> about foure Leagues di<g ref="char:EOLhyphen"/>ſtance from ours towards the Coaſt of <hi>France,</hi> and by advice of a Councel of War, it was reſolved to ply to windward to keep the weather gage, and we are now ready to let fall our Anchor this Tide; what courſe the <hi>Dutch Fleet</hi> ſteers wee doe not wel know, nor can we tel what harm we have done them, but we ſuppoſe one of them to be ſunk, and another of 30. Guns we have taken, with the Captains of both, his Main-Maſt of the firſt being ſhot by the Board, and much water in the Hold, made Captain <hi>Lawſons</hi> men to forſake her. We have ſix men of ours ſlain, and nine or ten deſperately wounded, and 25. more not without danger, amongſt them our Maſter and one of his Mates, and other Officers. We have received a<g ref="char:EOLhyphen"/>bout 70. great Shot in our Hull and Maſts, in our Sails and Rigging without number, being engaged with the whole Bo<g ref="char:EOLhyphen"/>dy of the Fleet for the ſpace of four hours: And the mark at which they aimed, we muſt needs acknowledge a great Mercy that we had no more harm, and our hope the righteous God will continue the ſame unto us, if there do ariſe a Warre be<g ref="char:EOLhyphen"/>tween us; they being firſt in the Breach, and ſeeking an Occa<g ref="char:EOLhyphen"/>ſion to Quarrel, and watching as it ſeems, an Advantage to brave us upon our own Coaſt, <hi>&amp;c.</hi>
+               </p>
+               <closer>
+                  <signed>Your moſt humble Servant, Robert Blake.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="account">
+            <pb n="15" facs="tcp:105266:9"/>
+            <head>The ſeverall Fights and Victories obtained (by GODS bleſſing) over the <hi>Dutch,</hi> by the Fleet of the Common-wealth of <hi>England,</hi> ſince the late Engagement of the Admirall <hi>Trump</hi> near <hi>Dover</hi> (contrary to the Law of Nature, and cuſtom of Nati<g ref="char:EOLhyphen"/>ons) at the ſame time that three of their Embaſſadors were here treating of Peace.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+                  <g ref="char:V">Ʋ</g>NE</hi> 30. 1652. Sir <hi>George Aſeue</hi> had advice <note place="margin">1 Victory after the Hollanders breach of Peace.</note> of thirty or forty <hi>Dutchmen,</hi> home-wards bound, with foure men of Warre for their Convoy, hearing they were very neere the narrow, he preſently weighed Anchor with nine Sayle, and ſtood over the Coaſt of <hi>France;</hi> ſome of his headmoſt ſhips came up with the <hi>Dutch</hi> Fleet, twenty ſix of them ranne directly aſhore upon <hi>Callis ſands,</hi> five we took, two more we got off from the ſands, and burnt three. This Fleet of the <hi>Dutch</hi> came from <hi>Tardadoes</hi> in <hi>Portugall,</hi> moſt of them laden with Salt and Oyle.</p>
+            <p>
+               <hi>The Names of the Dutch men of Warre, taken by Generall</hi> Blake <note place="margin">2 Victory.</note> 
+               <hi>in the North, being the Guard of the Fiſhing Buſſes.</hi>
+            </p>
+            <p>
+               <hi>Ball of Rotterdam, 24. Guns. Waterhound, Vice-admiral, 29. Guns.</hi> 
+               <note place="margin">3 Victory.</note> 
+               <hi>Sampſon of Anchiuſens, 28. Guns. Armes of Holland, 30. Guns. Noah's arke, 24. Guns. Swan of Amſterdam, 28. Guns. Adam &amp; Eve, 24. Guns. John Baptiſt, 22. Guns. Land of Promiſe, 24. Guns. Sampſon, 24. Guns.</hi> Two of which were ſunk.</p>
+            <p>
+               <hi>Sept.</hi> 25. 1652. The <hi>Holland</hi> Fleet appeared on the back<g ref="char:EOLhyphen"/>ſide of the <hi>Goodwin,</hi> but were that night driven backe by a ſtorm; the twenty ſixt day they appeared, and were forc't a<g ref="char:EOLhyphen"/>way by another ſtorm, twenty ſeven were forc't away the third time that General <hi>Blake</hi> got under Sail, and diſcovered the Dutch, they had two Admirals, <hi>De Wit,</hi> and <hi>Ruiter,</hi> with
+<pb n="16" facs="tcp:105266:10"/> about 54. ſail of men of War, and ſome ſmall Veſſels; our number was pretty equall with them. The event of the fight. Reer Admirall of the <hi>Dutch,</hi> 36. Guns ſanke, a great Veſſell of thirty Guns taken, their Reer-Admirall himſelfe taken Priſoner, and one Captain more, 300. Priſoners taken, one great Frigot of the <hi>Hollanders</hi> ſeen to ſink; two Dutch veſſels ſunk in the night after the fight. One hundred and odde of the Dutch ſlain and drowned in the Reer-Admirall; all the Dutch Fleet generally much torne and ſhattered, one of their Maſts, and three of their ſhips being ſhot off by the great Ship called the Common-wealth.</p>
+            <div type="letter">
+               <head>
+                  <hi>A Letter from Lieutenant Admirall</hi> Trump, <hi>to the High &amp; mighty Lords, the States Generall of the <g ref="char:V">Ʋ</g>nited Provinces, written in the Ship</hi> Brederode, <hi>before</hi> Calais, <hi>March</hi> 4. 1653.</head>
+               <opener>
+                  <salute>High and Mighty Lords,</salute>
+               </opener>
+               <p>THe fights begun the laſt of <hi>February,</hi> and did end the 2. of <note place="margin">4 Victory.</note> 
+                  <hi>March,</hi> after Sun-ſet, about the length of <hi>Portland,</hi> we be<g ref="char:EOLhyphen"/>ing above 70. Ships of Warre, and about 150. Merchantmen, Commander <hi>Ruiter,</hi> and thoſe that were with him, did fight the Enemy in the Rear; the Rear Admiral <hi>Peter Florize</hi> fought in the Front of the Enemie, where Admiral <hi>Blake</hi> with the beſt ſhips was, and the Vice-Admiral <hi>Jan Everſe</hi> in the midſt. In the afternoon we went away from the Enemie, we tooke Counſel, what hereafter we ſhould do to fight with the Ene<g ref="char:EOLhyphen"/>my again, and leave the Merchantmen; and that we ſhould not diſcharge any Ordnance in vain, becauſe our ammuniti<g ref="char:EOLhyphen"/>on begun to be wanting; We did ſee a great way by the Eaſt of us, only with his great ſail floating, the ſhip called the <hi>Vo<g ref="char:EOLhyphen"/>golſtruis,</hi> I did ſend ihe Commander <hi>Wilde</hi> with three ſhips af<g ref="char:EOLhyphen"/>ter him to help him, and if unſerviceable, to hale him if poſ<g ref="char:EOLhyphen"/>ſible: After which, we did gather our Body together, as well our Men of War, as Merchantmen, and went our way.</p>
+               <p>
+                  <hi>March</hi> 1. in the morning we ſaw the ſhip, the <hi>
+                     <g ref="char:V">Ʋ</g>rgelſtrugs</hi> a<g ref="char:EOLhyphen"/>mong the Engliſh Fleet, then began the Enemy very furiouſly to aſſault us, five or ſixe of his beſt ſailed Frigots keeping at each ſide of our Fleet. This day were cut off from our Fleet Cap. <hi>Jan la Sage</hi> of <hi>Zealand,</hi> and <hi>Bruyin van Seelſt</hi> of <hi>Amſterdam,</hi> and ſome few Merchantmen, divers ſhips came to us, com<g ref="char:EOLhyphen"/>plaining
+<pb n="17" facs="tcp:105266:10"/> they had little or no Powder nor Bullets left at all, every one did mend as much as they could of what was ſhot in pieces.</p>
+               <p>
+                  <hi>March</hi> 2. the Enemie began again to aſſault us with a great fury; about two hours in the afternoon, <hi>Blake</hi> being joyned with the moſt part of his body, made a ſigne to fall on again. The Vice-admirall <hi>Jan Everſe,</hi> and others came to ſpeak with me, &amp; called, they had neither powder nor ſhot, being dark, we put our Lights up, <hi>Blake</hi> did likewiſe put his Lights up, being by the wind of us, and after midnight we loſt the Ene<g ref="char:EOLhyphen"/>mies Lights.</p>
+               <p>The third <hi>Ditto</hi> in the morning at breaking of the day wee ſaw <hi>Calice</hi> S. W. from us two miles.</p>
+               <p>Taken by the Engliſh from <hi>Van Trump</hi> 47. ſhips in this Con<g ref="char:EOLhyphen"/>flict.</p>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>Gentlemen,</salute>
+               </opener>
+               <p>
+                  <hi>YEſterday morning being at Anchor ſome ten miles without the South-head of the Gober, early in the morning we diſcryed the</hi> 
+                  <note place="margin">5 Victory.</note> 
+                  <hi>Dutch Fleet about two Leagues to the Leeward. We made ſail to<g ref="char:EOLhyphen"/>wards them, and between 11. &amp; 12. at Noon we were engaged, and for three hours the diſpute was very ſharp on both ſides, which con<g ref="char:EOLhyphen"/>tinued from 3. till 6. in the evening; at which time the Enemie bore away right before the wind, and little more was done, onely the Fri<g ref="char:EOLhyphen"/>gots gave chaſe ſo long as there was any light to diſtinguiſh one from another. One of the Dutch Admirals was blown up, and 3. or 4. ſunke. We cannot hear that any of our own ſhips was loſt in this En<g ref="char:EOLhyphen"/>gagement, bleſſed be the Lord. We are at this time very fair again by them, and ſhall ſtill endeavour our utmoſt to engage them as ſoone as we can. It hath pleaſed the Lord to take away General</hi> Dean <hi>in the fight, an honeſt and faithfull ſervant of the</hi> Common-wealth. <hi>He was ſlain by a great ſhot. In this Engagement we have ſpent the grea<g ref="char:EOLhyphen"/>teſt part of our powder and ſhot; and therefore I earneſtly deſire you will take care that a conſiderable proportion may be ſuddenly provided us and ſent, with ſuch Victuals and Waterſhips as are yet behind. What ſhips are making ready in the River, may as ſoone as can be ſent. This is the beſt account can be given at preſent.</hi>
+               </p>
+               <closer>
+                  <signed>Your moſt affectionate friend and ſervant, GEO: MONKE.</signed>
+                  <dateline>From aboard the <hi>Reſolution,</hi> 14 Leagues from the North-foreland bearing weſt of us, <date>June 3. 1653. <hi>at 6 in the morning.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="18" facs="tcp:105266:11"/>
+               <head>Another Letter from the Fleet ſubſcribed by Gen. <hi>Blake,</hi> and Ceneral <hi>Monke,</hi> directed to the Lord Ceneral <hi>Cromwel,</hi> as followeth.</head>
+               <salute>May it pleaſe your Excellency,</salute>
+               <p>
+                  <hi>Your Lordſhips of the ſecond inſtant, with the encloſed Intelli<g ref="char:EOLhyphen"/>gence, we this day received, and according to your Excellencies apprehenſions thereon, wee have engaged with the Dutch Fleet, a briefe accompt of the firſt dayes action we have already ſent unto your Lordſhip. The next day being the third inſtant, wee did what wee could to reingage them, and having the Wind (which was but little) about Noone we came within ſhot. After four hours diſpute with them, or thereabouts, they endeavoured what they could to get away from us; but having then a pretty freſh gale of winde, we preſſed ſo hard upon them, that we ſunke and tooke many of them, as appeares by the encloſed Liſt, and do ſuppoſe we ſhould have deſtroyed moſt of them but that it grew darke, and being off of Oſtend among the ſands, we durſt not be too bold, eſpecially with the great ſhips, ſo that it was thought fit we ſhould Anchor all night, which we accordingly did a<g ref="char:EOLhyphen"/>bout tenne of the Clock. This morning ſome of our ſhips deſcried the Enemie again afar off, ſteering toward the Weillings, ſo far as with ſafety we might, and to range along the Coaſt till wee came to the Texel (the better to improve the preſent Victory God hath given un<g ref="char:EOLhyphen"/>to us) unleſſe we ſee cauſe to divert our courſe. We ſhall not further trouble your Lordſhip, but ſubſcribe our ſelves</hi>
+               </p>
+               <closer>
+                  <signed>Your Excellencies moſt humble Servants, Robert Blake. George Monk.</signed>
+               </closer>
+            </div>
+            <div type="account">
+               <head>A Liſt of the Dutch ſhips taken and ſunk, with the number of Priſoners, likewiſe the number of men ſlain and wounded on our part, <hi>viz.</hi>
+               </head>
+               <p>On Thurſday, 5. <hi>Dutch ſhips ſunck. 2 blown up, 7. Taken.</hi> On Friday, <hi>Dutch Priſoners 1350. whereof ſixe Captains. 11. ſhips taken. 6 ſunk. 2 Water-hoyes taken. 2 ſhips blown up amongſt their owne Fleet. Sunke by that diſaſter, one. Slain in our Fleet 126. whereof one Captaine. Wounded 236. Not one ſhip loſt on our part.</hi>
+               </p>
+            </div>
+            <div type="illustration">
+               <pb facs="tcp:105266:11"/>
+               <p>
+                  <figure>
+                     <figDesc>full-length profile portrait of General Richard Deane holding a sword, set in a view outward from inside a ship or galleon, bearing many flags, blazons and penants; beyond this two other ships or galleons surrounded by smoke</figDesc>
+                     <head>General Deane <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>, as he was flouriſhing his Sword at the head of the Ship, June 3. 1653.</head>
+                     <p>Aetatio ſuae 42.</p>
+                  </figure>
+               </p>
+            </div>
+            <div type="letter">
+               <pb n="20" facs="tcp:105266:12"/>
+               <head>
+                  <hi>A Letter from Generall</hi> Monke.</head>
+               <opener>
+                  <salute>Right Honourable,</salute>
+               </opener>
+               <p>SInce mine to you yeſterday (wherein I gave you an acc<g ref="char:EOLhyphen"/>ount <note place="margin">6 Victory.</note> of the goodnes of God towards us, &amp; appearance for us in the Engagement with our Enemie the day before, and that we were then in the purſuit of them) there hath little more been done, night drawing on, and the <hi>Dutch</hi> making directly to the Texel with what ſail they could, ſo that it was not fit to be bold on that ſhoar, not knowing how the wind may take us, many of our ſhips being much diſa<g ref="char:EOLhyphen"/>bled, but gave order to a ſmall veſſell or two to keep ſight of them till the morning, and obſerve what courſe they ſteered, who returning, gave an account that the Enemy ſteered the ſame night into the Texel Harbor, &amp; had Boats with lights to guide them in; whereupon yeſterday at a Councel of War it was reſolved that the whole Fleet ſhould preſently ſet Sail for Southold Bay, there to diſpoſe of ſuch ſhips as are diſa<g ref="char:EOLhyphen"/>bled, and to ſend away our wounded men and Priſoners, of which a certain account cannot be given at preſent, but hope to do it very ſhortly. But I do preſent your Lordſhips here encloſed with a generall account, referring the condition of the wives and families of thoſe who are ſlaine, to your Ho<g ref="char:EOLhyphen"/>nours tender care, wherein I doubt not but you will have re<g ref="char:EOLhyphen"/>ſpect to their neceſſities. I remain</p>
+               <closer>
+                  <signed>Your Lordſhips moſt humble ſervant, George Monke.</signed>
+               </closer>
+            </div>
+            <div type="account">
+               <head>The names of the Officers that were ſlain &amp; wounded on our ſide.</head>
+               <p>In the <hi>Andrew,</hi> Cap. <hi>Tho: Graves.</hi> Golden <hi>Cocke,</hi> Cap. <hi>Ed<g ref="char:EOLhyphen"/>mund Chapman. William,</hi> Cap. <hi>John Taylor. May Flower,</hi> Cap. <hi>Will: Newman. Proſperous,</hi> Cap. <hi>Criſp. Phoenix,</hi> Cap. <hi>Owen Cox.</hi> Wounded. In the Triumph, Cap. <hi>Peacock.</hi> The Lawrel, Cap. <hi>John Stokes.</hi> Dragon, Cap. <hi>John Seaman.</hi> Port<g ref="char:EOLhyphen"/>land, Cap. <hi>William Rous.</hi> Aſſurance, Cap. <hi>P. Holland.</hi> Tulip, Captain <hi>Joſeph Cubit.</hi>
+               </p>
+               <div type="part">
+                  <head>A liſt of the Dutch Captains taken Preſoners </head>
+                  <p>Admirall <hi>Trump</hi> ſlain by a Musket ſhot on his left breaſt.</p>
+                  <pb n="21" facs="tcp:105266:12"/>
+                  <p>1. <hi>Cor.</hi> John Evertſon, Vice-Admiral of <hi>Zealand,</hi> Captain of the <hi>Eyon. 2. Claus Johnſon Zanger. 3. Andrew Ferteene,</hi> Captain of the <hi>Concord. 4. Gebron Scotter,</hi> Captaiu of the <hi>Golden-fleece. 5. Frederick Shellingworth. 6. John de Hea,</hi> Cap. of the <hi>Garland,</hi> the ſhip burnt. 7. Captain <hi>Gotherick</hi> of the <hi>Joy</hi> of <hi>Fluſhing.</hi>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <div type="act">
+            <head>An Act for encreaſe of Shipping, and encouragement of Navigation, and Fiſherie of this Nation, by catching of God, Ling, Herring, Pilchard, and that after the firſt day of <hi>February, 1653.</hi> no fiſh ſhall be imported or exported in any other ſhips or Veſſels, ſave on<g ref="char:EOLhyphen"/>ly in ſuch as doe truly and properly appertain unto the people of this Common-wealth.</head>
+            <p>
+               <figure>
+                  <figDesc>depiction of two boats or fishing-boats at sea; one in the distance has a man pulling a rope tied to the topmast; one has three men pulling on a rope or line from which hang several large fish</figDesc>
+               </figure>
+            </p>
+            <p>FOR the Increaſe Shipping, and the Encouragement of the Navigation of this Nation, which under the good
+<pb n="22" facs="tcp:105266:13"/> Providence of God, is ſo great a meanes of the Welfare and Safety of this Common-wealth; Be it Enacted, That from and after the firſt day of <hi>December,</hi> One thouſand ſix hundred fifty and one, &amp; from thence forwards, No Goods or Com<g ref="char:EOLhyphen"/>modities whatſoever, of the Growth, Production, or Manu<g ref="char:EOLhyphen"/>facture of <hi>Aſia, Africa,</hi> or <hi>America,</hi> or of any part thereof; or of any Iſlands belonging to them, or any of them, or which are deſcribed or laid downe in the uſuall Maps or Cards of thoſe places, as well of the Engliſh Plantations, as others, ſhall be Imported or brought into this Common-wealth of <hi>England,</hi> or into <hi>Ireland,</hi> or any other Lands, Iſlands, Planta<g ref="char:EOLhyphen"/>tions or Territories to this Common-wealth belonging, or in their Poſſeſſion, in any other Ship or Ships, Veſſell or Veſſels whatſoever, but only in ſuch as do truly and without fraud belong only to the People of this Common-wealth, or the Plantations therof, as the Proprietors or right Owners thereof: And whereof the Maſter and Marriners are alſo for the moſt part of them, of the People of this Common-wealth under the penalty of the forfeiture and loſſe of all the Goods that ſhall be Imported contrary to this Act; as alſo of the Ship (with all her Tackle, Guns and Apparel) in which the ſaid Goods or Commodities ſhall be ſo brought in and Im<g ref="char:EOLhyphen"/>ported, The one moiety to the uſe of the Common-wealth, and the other moiety to the uſe and behoof of any perſon or perſons who ſhall ſeize the ſaid Goods or Commodities, and ſhall proſecute the ſame in any Court of Record within this Common-wealth, and in no other, except only ſuch For<g ref="char:EOLhyphen"/>reign Ships and Veſſels as doe truly and properly belong to people of that Countrey or place, of which the ſaid Goods are the Growth, Production, or Manufacture: or to ſuch Ports where the ſaid Goods can only be, or moſt uſually are firſt ſhipped for Tranſportation. That no ſort of Cod fiſh, Ling, Herring, Pilchard, or any other kind of ſalted Fiſh, u<g ref="char:EOLhyphen"/>ſually fiſhed for, and caught by the people of this Nation; nor any Oyle made, or that ſhall be made of any kind of fiſh, whatſoever, nor any Whole fins, or Whale bones, ſhal from hence forth be imported in to this Common-wealth, or into <hi>Ireland,</hi> or any other Lands, Iſlands, Plantations, or Terri<g ref="char:EOLhyphen"/>tories
+<pb n="23" facs="tcp:105266:13"/> thereto belonging, or in their poſſeſſion, but only ſuch as ſhall be caught in Veſſels that do, or ſhall truly and pro<g ref="char:EOLhyphen"/>perly belong to the people of this Nation, as Proprietors and Right Owners thereof: And the ſaid Fiſh to be cured, and the Oyle aforeſaid made by the people of this ſaid Common<g ref="char:EOLhyphen"/>wealth, That no ſort of Cod, Ling, Herring, Pilchard, or a<g ref="char:EOLhyphen"/>ny other kind of ſalted Fiſh whatſoever, which ſhal be caught &amp; cured by the people of this Common-wealth, ſhall be from and after the firſt day of <hi>Feb.</hi> one thouſand ſixe hundred fifty three, Exported from any place or places belonging to this Common-wealth, in any other Ship or Ships, Veſſell or Veſſels, ſave only in ſuch as do truly and properly appertain to the people of this Common-wealth, That this Act extend not to reſtrain the Importation of any of the Commodities of the Streights or Levant Seas, loaden in the Shipping of this Nation, though the ſaid Commodities be not of the very Growth of the ſaid places, nor be meant to reſtraine the Im<g ref="char:EOLhyphen"/>porting of any <hi>Eaſt-India</hi> Commodities loaden in the Shipp<g ref="char:EOLhyphen"/>ing of this Nation, at the uſual Port or places for Lading of them heretofore in any part of thoſe Seas, to the South-ward &amp; Eaſtward of <hi>Cabo Bona Eſperanza,</hi> although the ſaid Ports be not the very places of their Growth. That this extend not to Bullion, nor yet to any Goods taken, or that ſhal be taken by way of Reprizall by any Ship or Ships, having Commiſ<g ref="char:EOLhyphen"/>ſion from this Common-wealth. Provided, that this Act, or any thing therein contained, ſhall not extend, nor be con<g ref="char:EOLhyphen"/>ſtrued to extend to any Silke or Silke-wares which ſhall be brought by Land from any parts of <hi>Italy,</hi> and there bought with the proceed of Engliſh Commodities, ſold either for Money, or in Barter; but that it ſhall and may be lawfull for any of the people of this Common-wealth, to ſhip the ſame in Engliſh Veſſels from <hi>Oſtend, Newport, Roterdam, Mid<g ref="char:EOLhyphen"/>dleburgh, Amſterdam,</hi> or any Ports thereabouts; The Owners and Proprietors firſt making Oath by themſelves, or other credible Witneſs, before the Commiſſioners of the Cuſtomes for the time being, or their Deputies, or one of the Barons of the Exchequer, that the Goods aforeſaid were ſo bought for his or their own proper accompt in <hi>Italy.</hi>
+            </p>
+         </div>
+         <div type="account">
+            <pb n="24" facs="tcp:105266:14"/>
+            <head>A true Relation of a most bloody, treacherous, cruell Deſigne of the Dutch in the New-Netherlands in <hi>America,</hi> in ſupplying the Indians with Arms and Am<g ref="char:EOLhyphen"/>munition, to burn and ſlay the Engliſh on a Sabbath day when they were at meeting.</head>
+            <figure>
+               <figDesc>depiction of four male figures emerging in a line from a doorway; one carries several muskets or guns; one carries several staffs or pikes; one carries a basket; on the ground are barrels, helmets and armour</figDesc>
+            </figure>
+            <p>THE Colonies of <hi>New-England</hi> conſiſting of ſeverall Governments, have the <hi>Dutch</hi> ſetled to the South<g ref="char:EOLhyphen"/>weſt of them, at the <hi>Manatha's</hi> or <hi>New-Netherlands,</hi> and the <hi>French</hi> to the North-Eaſt, alongſt the Grand River of <hi>Canada;</hi> between which Nations there hath ever been (till now of late) a friendly correſpon<g ref="char:EOLhyphen"/>dence, and a mutuall aſſiſtance againſt the common Enemie, the barbarous <hi>Indians.</hi>
+            </p>
+            <p>About ſix years ſince, the <hi>Dutch</hi> being reduced to a great exigence and ſtrait by the <hi>Indians,</hi> implored the <hi>Engliſh</hi> ayde and aſſiſtance, which immediately was ſent them, under the command of Captain <hi>
+                  <g ref="char:V">Ʋ</g>nderhill,</hi> a Gentleman of ſpirit, expe<g ref="char:EOLhyphen"/>rience, and conduct, who prizing Chriſtian blood beyond
+<pb n="25" facs="tcp:105266:14"/> 
+               <hi>Indian</hi> Wealth and Treaſure (being proffered a hogſhead of their Wampampege to with-draw the <hi>Engliſh</hi> Forces) fell on theſe <hi>Heathens</hi> in vindication of the Dutch, and in one night cut off fourteen hundred of them, and ſo gallantly, with the hazard and ſome loſſe of Engliſh Blood (through the aſſiſtance of the Omnipotent) reſetled the <hi>Hollandar</hi> in peace and ſafety,</p>
+            <p>But Ingratitude over-clouding thoſe Heroick Actions, and <hi>Amboyna's</hi> treacherous cruelty extending it ſelf from the Eaſt to the Weſt Indies, running in its proper channell of Dutch blood, quickly ſought their Neighbors, their Friends their Noble Defenders, the Engliſh, Deſtruction; and by their unworthy inequality of retribution, have chronicled themſelves Ungratefull, Perfidious, Bloody, and Cruell.</p>
+            <p>For about <hi>March</hi> laſt, 1653. with gifts and large promi<g ref="char:EOLhyphen"/>ſes they inſtigated and hired foure of the Grand Princes of thoſe Territories, ſome of them moſt fierce, barbarous, and bloody people, fit Inſtruments for ſo horrid a deſigne, on a Sabbath day, when all Families were at Meeting, unexpe<g ref="char:EOLhyphen"/>ctedly to fall on the Engliſh, and to burne and ſlay what poſſibly they could: and for the better perfecting of this Di<g ref="char:EOLhyphen"/>abolicall plot, they ſupplyed the Indians with Armes and Ammunition, which were diſperſed in all their Habitati<g ref="char:EOLhyphen"/>ons, they having a Ship ſent them on purpoſe from Holland, the Fountain of Treacheries, with all neceſſary tools for the acting of a ſecond <hi>Amboyna</hi> Tragedy.</p>
+            <p>But the Omnipotent God (who hath ever beene a moſt mercifull protector of the <hi>Engliſh</hi> in thoſe parts, as in the <hi>Pe<g ref="char:EOLhyphen"/>quet</hi> War, <hi>&amp;c.)</hi> did through his infinite goodneſſe, moſt timely before the bloody day of acting, cauſe an <hi>Indian,</hi> that ſhould have been an Executioner, to be a revealing Deliverer of our Nation, who informed the Magiſtrates of <hi>Boſton</hi> of the <hi>Dutch</hi> and <hi>Indians</hi> bloody intentions; whereupon they requeſted ſeverall Merchants of that Town with all expedi<g ref="char:EOLhyphen"/>tion to march forth towards the <hi>Indian</hi> Habitations, to ſee what they could diſcover. At whoſe deſire, Mr. <hi>Gardner,</hi> Mr. <hi>Hutchinſon,</hi> Mr. <hi>Hooper,</hi> and Mr. <hi>Seavern</hi> rid forth, and the firſt Wigwambs, or <hi>Indian</hi> houſes they came to ſearching,
+<pb n="26" facs="tcp:105266:15"/> they found them full of Armes and Ammunition, (which have been ever prohibited the <hi>Indians</hi> by the <hi>Engliſh)</hi> all their Muſquets were charged with powder and ball, which they brought with them to <hi>Boſton:</hi> the Countrey was immediate<g ref="char:EOLhyphen"/>ly put in a poſture of Defence, and two Gentlemen ſent from <hi>Boſton, viz.</hi> Captain <hi>John Leveret,</hi> and Mr. <hi>Davis,</hi> to the <hi>New Netherlands</hi> with ſome <hi>Indians</hi> that confeſſed, that they were hired by the <hi>Dutch</hi> for to be inſtruments in this unheard of and unparalleld Inhumanity.</p>
+            <p>Some Letters affirme, that the <hi>French</hi> are confederate with the <hi>Dutch</hi> and <hi>Indians,</hi> ſo that the <hi>Engliſh</hi> are invironed with their Enemies But that out of the hands of all their Enemies the Lord may deliver them, Let all good Chriſtians im<g ref="char:EOLhyphen"/>plore a blſſing from the Almighty, that is moſt powerful to ſave, that he may crown their Enterprizes with ſucceſſefull Victories. <hi>Amen.</hi>
+            </p>
+            <p>If any deſire to be better informed of what here is inſerted, let them repair to any Merchant that holds correſpondence with <hi>New-England,</hi> whoſe Letters can evidence the certainty hereof.</p>
+         </div>
+         <div type="account">
+            <head>
+               <hi>Wonderful and ſtrange preſages both in the Heavens, and by the wa<g ref="char:EOLhyphen"/>ter, and on on the earth in</hi> Holland, <hi>freſh yet in memory, before any acts of hoſtility betwixt them and the</hi> English, 1652.
+<figure>
+                  <figDesc>depiction of four men standing at the sea-shore, gesturing toward four other men in a small boat or fishing-boat, pulling a rope or line from which hang several large fish</figDesc>
+                  <head>Shippes and Nauall fights with the Engliſh collers and Belgike Lion ſeene at the mouth of the Maſe by the fiſher<g ref="char:EOLhyphen"/>men at noone-day and affermed upon oath 1655</head>
+               </figure>
+            </head>
+            <pb facs="tcp:105266:15"/>
+            <opener>
+               <dateline>
+                  <hi>Amſterdam,</hi> 
+                  <date>1652.</date>
+               </dateline>
+            </opener>
+            <p>VVEe have many judicious men who have obſerved the ſignes of Heaven againſt us, and the Prodigies on earth, and ſigns in the Aire, and are afraid of them. They re<g ref="char:EOLhyphen"/>member a propheſie, that when the State-houſe of <hi>Amſterdam</hi> ſhall be built, the glory of that Citie shal be pulled downe; they ſay the beleagering of that Citie by the Prince of <hi>Orange,</hi> shewed the ruine of their liberty by that Family; that the i<g ref="char:EOLhyphen"/>nundation of waters upon that Citie, a little after <hi>Oranges</hi> death preſaged a deluge of miſeries breaking in upon them. The dreadfull apparition at the mouth of the Maſe, of Ships and Navall fights, in which were Engliſh colours, and the Dutch, with the belgick Lyon, and this ſeene by the Fiſher<g ref="char:EOLhyphen"/>men of <hi>Mazeland</hi> at noon-day, and affirmed by oath was that draught in the ayre, of the tragedy which is now acting up<g ref="char:EOLhyphen"/>on the water; the burning of the old Statehouſe at <hi>Amſterdam,</hi> in which was great loſſe of papers and money. The narrow eſcape of our fire ſhips by burning of the <hi>Lubeck</hi> ſhip, and the burning up of our Magazens at <hi>Dorte,</hi> and the mutinous ca<g ref="char:EOLhyphen"/>riage of our Schuterdy. The peſt. in our ſhips, &amp; <hi>Trumps</hi> co<g ref="char:EOLhyphen"/>ming to the <hi>Downs</hi> with above 100. ſaile, and not able to touch Sir <hi>George Aſcue,</hi> who then had but 15. Ships with him, though came up cloſe, and endeavouring it, becauſe the wind in our Fleets teeth, as was in 88. The <hi>Spaniſh</hi> begin to im<g ref="char:EOLhyphen"/>prove and fortifie his Frontiers upon us, &amp; are jealous of the <hi>Spaniſh</hi> nation at this time, knowing he ſpares no oyle to caſt into this flame.</p>
+         </div>
+         <div type="account">
+            <head>
+               <hi>A letter from</hi> France <hi>of the riſing of 13000. Proteſtans againſt the Papiſts.</hi>
+               <figure>
+                  <figDesc>depiction of the inside of a church, in which four men are setting fire to the pulpit, benches or seats, etc.; at the four corners of this image are small sketches of armies, military companies or groups of soldiers with flags or ensigns and weapons</figDesc>
+                  <head>The Papiſtes at Vals in France burned the pul<g ref="char:EOLhyphen"/>pit and benches turned out the Miniſter upon which the No<g ref="char:EOLhyphen"/>bilitie and Gen<g ref="char:EOLhyphen"/>trey arose in a bodey about 10000</head>
+               </figure>
+            </head>
+            <pb n="28" facs="tcp:105266:16"/>
+            <opener>
+               <salute>Honored Sir,</salute>
+            </opener>
+            <p>
+               <hi>COunt de</hi> Rieux, <hi>and Madam de</hi> Ornana, <hi>and others, roſe upon the Proteſtants at</hi> Vals, <hi>when they were at Church, turned out the Miniſter, abuſed divers, and burnt the Pulpit, and Bench<g ref="char:EOLhyphen"/>es: <g ref="char:V">Ʋ</g>pon which the Proteſtant Nobility and Gentry all about</hi> Lan guedock <hi>are riſen in armes for their defence, and in a ſhort time got together above ten thouſand men in a body, which ſo frighted the Papiſts in</hi> Nieſms, <hi>and other places thereabouts, that they are with<g ref="char:EOLhyphen"/>drawn as faſt as they can for feare of them. Newes hereof comming to the Court, the Kings Councell have paſſed a Declaration for the Proteſtants to enjoy the benefit formerly granted at</hi> Nants, <hi>and of o<g ref="char:EOLhyphen"/>ther Edicts in their behalfe, and that Count</hi> de Rieux <hi>and his Con<g ref="char:EOLhyphen"/>federates ſhall repaire all the damages the ſaid Proteſtants have ſu<g ref="char:EOLhyphen"/>ſtained, and that the Proteſtants do lay downe their Armes; &amp; Count De Rieux is ſent for to</hi> Paris, <hi>to anſwer a Charge exhibited againſt him. Monſieur</hi> De Ville France <hi>of the Proteſtant family of</hi> Man<g ref="char:EOLhyphen"/>thurſt, <hi>is come out of the Daulphin to</hi> Nieſms <hi>with 3000. men to ſend with the Proteſtants.</hi>
+            </p>
+            <div type="letter">
+               <opener>
+                  <dateline>
+                     <hi>From</hi> Paris, <date>
+                        <hi>Septemb. 14. Stilo novo.</hi>
+                     </date>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>THings are here</hi> ſtatu quo, <hi>as in my laſt, the Proteſtants being up in the Province of</hi> Languedock <hi>grow very numerous, and appear to be in very good earneſt, having ſet out a publique Manifeſto, wherein they do declare the ground of their taking Arms; and they have choſen themſelves a General, not of the ranke of Nobility, be<g ref="char:EOLhyphen"/>cauſe they are ſo apt upon all occaſions to cloſe with the Court; but a a Gentleman, one Monſieur</hi> Caſſagne <hi>an old Souldier, and an able follower of that famous Prince, an able Politician, and a gallant Sword-man to the Quondam Duke of</hi> Rhoane: <hi>So that the Court here are in extream agonies about it, and offer all the lenatives in the world to allay their reſolution, but by all ſignes and tokens there will as yet be no accommodation.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="account">
+            <pb n="29" facs="tcp:105266:16"/>
+            <head>October 26, 1653. <hi>A Tumultuous riſing of a company of Seamen at the</hi> Prize Office.</head>
+            <figure>
+               <figDesc>depiction of a crowd, many holding pikes, and of a man on a horse; also two gallows, from one of which hangs a body or corpse; a man supported by a ladder at the other gollows is having a rope or noose put around his neck</figDesc>
+            </figure>
+            <p>THis day there was a Tumultuous riſing of a company of Sea-men, who demanding at the <hi>Prize-Office</hi> their ſhares in ſome Prizes that had been taken, were ſo rude in their de<g ref="char:EOLhyphen"/>mands, that the Commiſſioners were forced to ſend for ſom Souldiers to appeaſe the Tumult, which was not don with<g ref="char:EOLhyphen"/>out the loſſe of ſome blood, one being ſlain on the place, and divers hurt and wounded on both ſides. Afterward, the Seamen repaired to <hi>VVhitehall,</hi> and being more civil in their Demands there, were promiſed to have what in reaſon was juſt: And ſome of the chief of them being made ſenſible of the ſad effects that would follow ſuch unadviſed and deſpe<g ref="char:EOLhyphen"/>rate proceedings, they were content for that time to depart in peace</p>
+            <p>
+               <hi>October</hi> 27. The Seamen in a Tumultuous manner, in greater numbers than before, roſe again, many of them be<g ref="char:EOLhyphen"/>ing armed with Swords and Piſtols, and other weapons: And coming down towards <hi>VVhitehall,</hi> they were met with<g ref="char:EOLhyphen"/>all by the Lord Generals Life-guard at Charing-croſſe, and ſoon diſperſed, ſome cut and wounded.</p>
+            <div type="proclamation">
+               <head>By the Councel of State appointed by Authority of Parliament.</head>
+               <p>WHereas for the encouragement of Seamen, a conſide<g ref="char:EOLhyphen"/>rable augmentation hath been made of their Wages, and ſeaſonable proviſion for ſuch of them as have been ſick or wounded, and due conſideration had of the wives, Chil<g ref="char:EOLhyphen"/>dren, and impotent Parents of all Officers and Seamen that
+<pb n="30" facs="tcp:105266:17"/> have been ſlain in the preſent Service, as alſo their Months Gratuity and wages fully paid them upon coming in of the ſaid reſpective Ships, in which they have ſerved; Notwith<g ref="char:EOLhyphen"/>ſtanding all which, and the extraordinary care that hath been taken by the State from time to time for their encou<g ref="char:EOLhyphen"/>ragement, divers Seamen and others did on the 26 and 27 dayes of this inſtant <hi>October,</hi> in a mutinous and ſeditious manner, aſſemble themſelves together in numerous compa<g ref="char:EOLhyphen"/>nies, with Piſtols, Swords, and other weapons, on the <hi>Tower</hi> hill, at <hi>Charing</hi>-croſſe, and other places in and about the Ci<g ref="char:EOLhyphen"/>ties of <hi>London</hi> and <hi>VVeſtminſter,</hi> to the diſturbance of the pub<g ref="char:EOLhyphen"/>lick Peace: Now to the end that ſuch practices for the fu<g ref="char:EOLhyphen"/>ture may be prevented, which we have too much cauſe to believe have been animated and fomented by diſcontented and il-affected perſons; and that others in time to come may not be ſeduced to their own ruine, we do hereby De<g ref="char:EOLhyphen"/>clare that exemplary Juſtice ſhall be inflicted upon the chief Actors or Ringleaders of this Mutiny and Sedition, ſome of which are now under cuſtody: And do ſtreitly charge and command, That no Mariner, Seaman, or other perſons whatſoever, upon pain of death, do preſume to aſſemble to<g ref="char:EOLhyphen"/>gether in a mutinous or ſeditious mannner, or any wayes countenance or abet ſuch Mutiny or Sedition. And we do further Declare, That a ſpeedy courſe ſhall be taken for the adjuſting and payment of the money due to the Seamen for their ſhares of Prizes; and that all due encouragement (w<hi rend="sup">ch</hi> ſhall hereafter be particularly expreſſed) ſhall be given to ſuch as ſhall voluntarily engage themſelves in this preſent Service.</p>
+               <closer>
+                  <dateline>
+                     <hi>Dated at Whitehall,</hi> 
+                     <date>this 27 day of <hi>Octob.</hi> 1653.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="act">
+               <head>An Additionall Article to the Lawes of War, and Ordi<g ref="char:EOLhyphen"/>nances of the Sea.</head>
+               <p>THat all Mariners and others employed, or which have been employed in the ſervice of this Common-welath in their Fleets, or otherwiſe at Sea, ſhall after the time of their reſpective diſcharges, demean themſelves with all duty and reſpect to the publick Peace: And if any perſon who hath been, is or ſhall be ſo employed, hath committed or abetted, or ſhall commit or abet any Mutinous or Seditious act,
+<pb n="31" facs="tcp:105266:17"/> whereby the Peace of this Common-wealth may be, or hath been endangered; Every ſuch perſon ſhall be proceeded a<g ref="char:EOLhyphen"/>gainſt, and ſuffer pains of death, or otherwiſe, in the ſame ſort and manner, as by the Lawes of war and Ordinances of the Sea already eſtabliſhed, he might have been proceeded a<g ref="char:EOLhyphen"/>gainſt for any act of that nature, in caſe of being in actuall Service.</p>
+               <p>Provided, That every perſon comprized within this Arti<g ref="char:EOLhyphen"/>cle, be proceeded againſt within three Moneths after the Of<g ref="char:EOLhyphen"/>fence committed, and not otherwiſe.</p>
+            </div>
+            <div type="account">
+               <p>
+                  <hi>Nov:</hi> 4. 1653. A Souldier hang'd at <hi>Tower</hi>-hill.</p>
+               <p>
+                  <hi>Oct:</hi> 31. One of the chief mutinous Sea-men was hang'd, he having ſtirred up the reſt by making proclamation, <hi>&amp;c.</hi> And another was whipt under the Gallows.</p>
+            </div>
+         </div>
+         <div type="account">
+            <head>Sixteen Men of VVarre were ſwept away, and 2000 Men drowned, with 500 peece of Ordnance. The Sea broke in through their Banks in above dozen places, into the Merchants Cellars and Warehouſes, having been beaten on through the extream violence of the wind.</head>
+            <p>
+               <figure>
+                  <figDesc>depiction of five ships or galleons on a stormy sea</figDesc>
+                  <head>Amſterdam, <hi>Novemb:</hi> 14. 1653.</head>
+               </figure>
+            </p>
+            <p>
+               <hi>DEwitte</hi> being come home with his Merchant men from <hi>Denmarke,</hi> they began to grow high with a deſign upon <hi>England,</hi> the Merchant-men being got in, Orders were ſent that they ſhould by all means keep at Sea, fearing if the Fleet of war had come in, they ſhould not gather them together again, and determined to ſupply them with Victuals, and o<g ref="char:EOLhyphen"/>ther neceſſaries at a diſtance, that ſo they might convey their laſt Vintage from <hi>France,</hi> through the Channel, and then brave it upon the <hi>Engliſh</hi> Coaſts, and endeavour to block up
+<pb n="32" facs="tcp:105266:18"/> the <hi>Thames.</hi> In the interim, it pleaſed God, that by a violent ſtorm of a weeks continuance, no leſſe then ſixteen men of war of <hi>De witts</hi> Fleet, were ſwept away, 2000 men drownd, and 500 piece of Ordnance, whereof a good number Braſſe, and great ſtore of proviſion in a particular Veſſel. The new Frigots loſt their maſts, but ſav'd themſelves with much ado. As a further addition to their miſeries, the Sea brake into the Cellars and Ware-houſes, to the exceeding loſſe of their Merchants, by making ſeverall breaches in their Banks in a<g ref="char:EOLhyphen"/>bove a dozen places; and generally over all the Low Coun<g ref="char:EOLhyphen"/>treys, the Sea having been beaten on the Coaſts, through the extream violence of winds and weather. And the Duke of <hi>Lorraine</hi> is come once again on their Borders, to add to their troubles.</p>
+            <div type="part">
+               <p>
+                  <hi>Harlem in Holland, Decemb.</hi> 30. 1653. On <hi>Tueſday</hi> laſt there roſe a very great ſtorm, which continued all night, there being between fifty and ſix<g ref="char:EOLhyphen"/>ty Merchants riding at Anchor at the <hi>Texel,</hi> many of them are ſunk and caſt away, but 17 ſaved between 30 and 40 are at beſt ſpoiled, ſunk. and run a ground, and of them no loſt, amongſt the reſt there was one <hi>Eaſt India</hi> ſhip called the <hi>Lilly</hi> loſt, that was going out, and the <hi>Marigold</hi> is much hurt and ſhatter'd. One tore and ſunk another Divers of them have been driven aſhore and ſome upon Shelves and Rocks, and many are loſt in ſeverall parts. What the particular loſſes have been cannot yet be collected. But the <hi>Eaſt India</hi> Fleet at Sea, being 150 ſhips, are much feared. At <hi>Amſter<g ref="char:EOLhyphen"/>dam</hi> alſo ſome hurt was done by this ſtorm, for without the gate of the Ci<g ref="char:EOLhyphen"/>ty, by the <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Bole.</hi> a Malt-Mill of <hi>Stephen Paters,</hi> fell on fire with the violence of the motion, whereby not onely the Mill but four Houſes that ſtood by it were burnt, to the great loſſe of <hi>Stephen Pater,</hi> who had much <hi>Malt</hi> lay there. Alſo within the City, the iron Croſſe (that is about 20 foot long, and weighed 14 or 1600 l.) that ſtood upon the Weſt Church lately built, the Weathercock above it, and the great Copper gilded Bowle under it, which held near a Hogſtead of Beer, were all blown down through the body of the Church, falling on the Grave ſtones brake them, and tore the dead bodies in their Graves. But the greateſt loſſe I hear of was at <hi>Rype</hi> in <hi>North Holland,</hi> where an Oyl-Mill by the ſtorm, in a violent motion by its own heat ſet fire, and that burning ſet divers Houſes on fire, ſome 5 or 6 hundred Houſes were deſtroyed, and many perſons burnt alive, and a<g ref="char:EOLhyphen"/>bundance of Goods, many being taken in their Beds, and others burnt be<g ref="char:EOLhyphen"/>fore they could get out of doors. And not onely the private Houſes, but the two Churches, Town-houſe, and the Way houſe alſo as is ſaid, are all laid in aſhes. And the fire ſtaid not in this Town, but flew over the River ſixty foot broad, that goes about the <hi>Bemſter,</hi> and upon the inſide of the bank of the <hi>Bemſter,</hi> burnt divers Houſes alſo; and burnt the very ſhips (though ſmall ones) and Boats that lay in the Haven; beſides what harm it hath done in other parts not herein mentioned.</p>
+            </div>
+         </div>
+         <div type="table_of_naval_forces">
+            <pb facs="tcp:105266:18"/>
+            <pb facs="tcp:105266:19"/>
+            <head>A LIST of the Common-wealth of <hi>Englands</hi> Navie at Sea, in their Expedition in <hi>May,</hi> 1653. Under the Command of the Right Honourable Col: <hi>Richard Deane,</hi> and Col: <hi>George Monke,</hi> Eſquires, Generals and Admirals. Together with the Names of all the Commanders of the ſaid Fleet, and the number of Men and Guns which every Ship carried, at that memorable Fight on the 2 and 3 of <hi>June,</hi> 1653. in which through Gods bleſſing on the ſaid Fleet, they took and deſtroyed between 20 and 30 Dutch Ships of War, and alſo took 1350 Priſo<g ref="char:EOLhyphen"/>ners, with very little loſſe on our part; and purſued the <hi>Dutch</hi> to their own Harbours. Alſo a diſtinction of part of thoſe Ships (by the letter P in the Margent) which have been taken Prizes, and are now in the Service of the <hi>Common-wealth.</hi>
+            </head>
+            <p>
+               <table>
+                  <head>THE FIRST SQUADRON. <hi>The Red Standard and Flagge, under the Squadronall Command of the Generalls above expreſſed.</hi>
+                  </head>
+                  <row>
+                     <cell>Ships Names.</cell>
+                     <cell>Commanders.</cell>
+                     <cell>Men.</cell>
+                     <cell>Guns.</cell>
+                  </row>
+                  <row>
+                     <cell>The Reſolution</cell>
+                     <cell>
+                        <hi>The Generals</hi>
+                     </cell>
+                     <cell>550</cell>
+                     <cell>88</cell>
+                  </row>
+                  <row>
+                     <cell>Worceſter Frigot</cell>
+                     <cell>
+                        <hi>George Dakins,</hi> Capt.</cell>
+                     <cell>220</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>Adviſe Frigot</cell>
+                     <cell>
+                        <hi>Jer: Smith,</hi> Capt.</cell>
+                     <cell>180</cell>
+                     <cell>42</cell>
+                  </row>
+                  <row>
+                     <cell>Diamond Frigot</cell>
+                     <cell>
+                        <hi>William Hill</hi>
+                     </cell>
+                     <cell>180</cell>
+                     <cell>42</cell>
+                  </row>
+                  <row>
+                     <cell>Saphire Frigot</cell>
+                     <cell>
+                        <hi>Nicholas Heaton.</hi>
+                     </cell>
+                     <cell>140</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>Marmaduke</cell>
+                     <cell>
+                        <hi>Edward Blagg</hi>
+                     </cell>
+                     <cell>460</cell>
+                     <cell>42</cell>
+                  </row>
+                  <row>
+                     <cell>Pelican</cell>
+                     <cell>
+                        <hi>Peter Motham</hi>
+                     </cell>
+                     <cell>180</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Mearmaid</cell>
+                     <cell>
+                        <hi>John King</hi>
+                     </cell>
+                     <cell>100</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>P Goulden Fleece</cell>
+                     <cell>
+                        <hi>Nic: Foſter</hi>
+                     </cell>
+                     <cell>180</cell>
+                     <cell>44</cell>
+                  </row>
+                  <row>
+                     <cell>Loyalty</cell>
+                     <cell>
+                        <hi>John Limbry</hi>
+                     </cell>
+                     <cell>150</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell>Society</cell>
+                     <cell>
+                        <hi>Nic: Lucas</hi>
+                     </cell>
+                     <cell>140</cell>
+                     <cell>44</cell>
+                  </row>
+                  <row>
+                     <cell>Malaga Marchant</cell>
+                     <cell>
+                        <hi>Henry Collins</hi>
+                     </cell>
+                     <cell>140</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>Martin</cell>
+                     <cell>
+                        <hi>John Veſſy</hi>
+                     </cell>
+                     <cell>90</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>P Fireſhips Fox</cell>
+                     <cell>—<hi>Cornelius</hi>
+                     </cell>
+                     <cell>30</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>P Fireſhips Fortune</cell>
+                     <cell>
+                        <hi>Humphry Morris</hi>
+                     </cell>
+                     <cell>30</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>P Fireſhips Renowne.</cell>
+                     <cell>
+                        <hi>James Salmon</hi>
+                     </cell>
+                     <cell>30</cell>
+                     <cell>10</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>The Vice-Admirals Diviſion of the Generals Squadron.</head>
+                  <row>
+                     <cell>Triumph</cell>
+                     <cell>
+                        <hi>James Pecock,</hi> Vice Adm:</cell>
+                     <cell>350</cell>
+                     <cell>62</cell>
+                  </row>
+                  <row>
+                     <cell>Lawrell Frigot</cell>
+                     <cell>
+                        <hi>John Stoake,</hi> Capt.</cell>
+                     <cell>200</cell>
+                     <cell>48</cell>
+                  </row>
+                  <row>
+                     <cell>Adventure Frigot</cell>
+                     <cell>
+                        <hi>Robert Nickson</hi>
+                     </cell>
+                     <cell>160</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Providence Frigot</cell>
+                     <cell>
+                        <hi>John Pearce</hi>
+                     </cell>
+                     <cell>140</cell>
+                     <cell>33</cell>
+                  </row>
+                  <row>
+                     <cell>P Beare</cell>
+                     <cell>
+                        <hi>Francis Kerby</hi>
+                     </cell>
+                     <cell>200</cell>
+                     <cell>46</cell>
+                  </row>
+                  <row>
+                     <cell>P Hearts eaſe</cell>
+                     <cell>
+                        <hi>Thomas Weight</hi>
+                     </cell>
+                     <cell>150</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>P Hound</cell>
+                     <cell>
+                        <hi>Jonah Hide</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>P Anne and Joyce</cell>
+                     <cell>
+                        <hi>William Pile</hi>
+                     </cell>
+                     <cell>119</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell>London</cell>
+                     <cell>
+                        <hi>Arthur Browne</hi>
+                     </cell>
+                     <cell>200</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>P Hanniball</cell>
+                     <cell>
+                        <hi>William Hadduck</hi>
+                     </cell>
+                     <cell>180</cell>
+                     <cell>44</cell>
+                  </row>
+                  <row>
+                     <cell>P Mary Prize</cell>
+                     <cell>
+                        <hi>Henry Maddiſon</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>37</cell>
+                  </row>
+                  <row>
+                     <cell>Thomas and Wil:</cell>
+                     <cell>
+                        <hi>John Jefferſon</hi>
+                     </cell>
+                     <cell>140</cell>
+                     <cell>36</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>The Rear-Admirals Diviſion of the Generals Squadron.</head>
+                  <row>
+                     <cell>Speaker Frigot</cell>
+                     <cell>
+                        <hi>Samuel Hewet,</hi> Rear Adm.</cell>
+                     <cell>300</cell>
+                     <cell>56</cell>
+                  </row>
+                  <row>
+                     <cell>Suffex Frigot</cell>
+                     <cell>
+                        <hi>Roger Cuttaine,</hi> Capt.</cell>
+                     <cell>180</cell>
+                     <cell>46</cell>
+                  </row>
+                  <row>
+                     <cell>Guiney Frigot</cell>
+                     <cell>
+                        <hi>Edmond Curtice</hi>
+                     </cell>
+                     <cell>150</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell>Tyger</cell>
+                     <cell>
+                        <hi>Gabriel Sanders</hi>
+                     </cell>
+                     <cell>170</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Violet</cell>
+                     <cell>
+                        <hi>Henry Southwood</hi>
+                     </cell>
+                     <cell>180</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>P Sophia</cell>
+                     <cell>
+                        <hi>Robert Kerby</hi>
+                     </cell>
+                     <cell>160</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>Falmouth Frigot</cell>
+                     <cell>
+                        <hi>John Jeffreys</hi>
+                     </cell>
+                     <cell>100</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>P 4 Siſters</cell>
+                     <cell>
+                        <hi>Robert Becke</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>Hambr: Merchant</cell>
+                     <cell>
+                        <hi>William Jeſſell</hi>
+                     </cell>
+                     <cell>110</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell>Phanix</cell>
+                     <cell>
+                        <hi>Henry Eaden</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell cols="4">
+                        <list>
+                           <item>
+                              <hi>The Generals Squadron conſiſting of 38 Ships.</hi>
+                           </item>
+                           <item>
+                              <hi>Mannaged by 6169 Men.</hi>
+                           </item>
+                           <item>
+                              <hi>Mounted with 1440 Guns.</hi>
+                           </item>
+                        </list>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>THE SECOND SQUADRON. <hi>The Engliſh Colours, and White Flaggs, committed to the Conduct of</hi> William Penn, <hi>Eſq; Vice-Admirall of</hi> England, <hi>and Admirall of the White Flagg.</hi>
+                  </head>
+                  <row>
+                     <cell>Ships.</cell>
+                     <cell>Commanders.</cell>
+                     <cell>Men</cell>
+                     <cell>Guns.</cell>
+                  </row>
+                  <row>
+                     <cell>James</cell>
+                     <cell>
+                        <hi>William Pen, Eſq;</hi> Admi:</cell>
+                     <cell>360</cell>
+                     <cell>66</cell>
+                  </row>
+                  <row>
+                     <cell>Lion</cell>
+                     <cell>
+                        <hi>John Lambert,</hi> Capt.</cell>
+                     <cell>220</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>Ruby Frigot</cell>
+                     <cell>
+                        <hi>Robert Sanders</hi>
+                     </cell>
+                     <cell>180</cell>
+                     <cell>42</cell>
+                  </row>
+                  <row>
+                     <cell>Aſſiſtance Frigot</cell>
+                     <cell>
+                        <hi>William Criſpin</hi>
+                     </cell>
+                     <cell>180</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Foreſight Frigot</cell>
+                     <cell>
+                        <hi>Richard Stayner</hi>
+                     </cell>
+                     <cell>180</cell>
+                     <cell>42</cell>
+                  </row>
+                  <row>
+                     <cell>Portſmouth Frig:</cell>
+                     <cell>
+                        <hi>Robert Doenford</hi>
+                     </cell>
+                     <cell>170</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>P Anne Piercy</cell>
+                     <cell>
+                        <hi>Thomas Hare</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>33</cell>
+                  </row>
+                  <row>
+                     <cell>P Peter</cell>
+                     <cell>
+                        <hi>John Littleton</hi>
+                     </cell>
+                     <cell>100</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell>Exchange</cell>
+                     <cell>
+                        <hi>Henry Tidman</hi>
+                     </cell>
+                     <cell>100</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>P Merlin</cell>
+                     <cell>
+                        <hi>George Crapnell</hi>
+                     </cell>
+                     <cell>090</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Rich: and Martha</cell>
+                     <cell>
+                        <hi>Evestace Smith</hi>
+                     </cell>
+                     <cell>180</cell>
+                     <cell>46</cell>
+                  </row>
+                  <row>
+                     <cell>Sara</cell>
+                     <cell>
+                        <hi>Francis Steward</hi>
+                     </cell>
+                     <cell>140</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell>Lixa Merchant</cell>
+                     <cell>
+                        <hi>Simon Baily</hi>
+                     </cell>
+                     <cell>160</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>P <hi>Fireſhip,</hi> Falcion</cell>
+                     <cell> </cell>
+                     <cell>030</cell>
+                     <cell>10</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>The Vice-Amirals Diviſion of the Vice-Admirals Squadron.</head>
+                  <row>
+                     <cell>Victory</cell>
+                     <cell>
+                        <hi>Lionell Lane,</hi> Vice Adm:</cell>
+                     <cell>300</cell>
+                     <cell>60</cell>
+                  </row>
+                  <row>
+                     <cell>Centurion Frigot</cell>
+                     <cell>
+                        <hi>Walter Vood,</hi> Capt.</cell>
+                     <cell>200</cell>
+                     <cell>42</cell>
+                  </row>
+                  <row>
+                     <cell>Expedition Frigot</cell>
+                     <cell>
+                        <hi>Tho: Vodis</hi>
+                     </cell>
+                     <cell>140</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell>P Gilt flower</cell>
+                     <cell>
+                        <hi>John Hayward</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell>P Middle borow</cell>
+                     <cell>
+                        <hi>Tho: Wishing</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell>P Raven</cell>
+                     <cell>
+                        <hi>Robert Taylor</hi>
+                     </cell>
+                     <cell>140</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>Exchange</cell>
+                     <cell>
+                        <hi>Jeafrey Dare</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell>Giobe</cell>
+                     <cell>
+                        <hi>Robert Coleman</hi>
+                     </cell>
+                     <cell>110</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>Prudent Mary</cell>
+                     <cell>
+                        <hi>John Taylor</hi>
+                     </cell>
+                     <cell>100</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Tho: and Lucie</cell>
+                     <cell>
+                        <hi>Andrew Rand</hi>
+                     </cell>
+                     <cell>125</cell>
+                     <cell>34</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>The Reare-Admirals Diviſion of the Vice-Admirals Squadron.</head>
+                  <row>
+                     <cell>Andrew</cell>
+                     <cell>
+                        <hi>Tho: Graves,</hi> Rear Adm:</cell>
+                     <cell>360</cell>
+                     <cell>56</cell>
+                  </row>
+                  <row>
+                     <cell>Aſſurance Frigot</cell>
+                     <cell>
+                        <hi>Phillip Holland,</hi> Capt.</cell>
+                     <cell>160</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>P Crowne</cell>
+                     <cell>—<hi>Thomſon,</hi> Capt.</cell>
+                     <cell>140</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>P Dutches</cell>
+                     <cell>
+                        <hi>Richard Seafeild</hi>
+                     </cell>
+                     <cell>090</cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>P Princes Maria</cell>
+                     <cell>
+                        <hi>Saite Hanly</hi>
+                     </cell>
+                     <cell>170</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>P Waterhound</cell>
+                     <cell>
+                        <hi>Gyles Shelly</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>P Pearle</cell>
+                     <cell>
+                        <hi>James Cadman</hi>
+                     </cell>
+                     <cell>100</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>Reformation</cell>
+                     <cell>
+                        <hi>Anthony Erning</hi>
+                     </cell>
+                     <cell>160</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Induſtry</cell>
+                     <cell>
+                        <hi>Ben: Salmon</hi>
+                     </cell>
+                     <cell>100</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell cols="4">
+                        <list>
+                           <item>
+                              <hi>The Vice-Admirals Squadron conſiſting of 33 Ships.</hi>
+                           </item>
+                           <item>
+                              <hi>Mannaged by 5085 Men.</hi>
+                           </item>
+                           <item>
+                              <hi>Mounted with 1189 Guns.</hi>
+                           </item>
+                        </list>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>THE THIRD SQUADRON. <hi>The Blew Flaggs, Commanded by</hi> John Lawſon, <hi>Eſq; Rear-Admirall of</hi> England, <hi>and Admirall of the Blew Flagge.</hi>
+                  </head>
+                  <row>
+                     <cell>Ships.</cell>
+                     <cell>Commanders.</cell>
+                     <cell>Men.</cell>
+                     <cell>Guns.</cell>
+                  </row>
+                  <row>
+                     <cell>George</cell>
+                     <cell>
+                        <hi>John Lawſon, Eſq;</hi> Adm.</cell>
+                     <cell>350</cell>
+                     <cell>58</cell>
+                  </row>
+                  <row>
+                     <cell>Kentiſh Frigot</cell>
+                     <cell>
+                        <hi>Jac: Renolds,</hi> Capt.</cell>
+                     <cell>180</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>Great Preſident</cell>
+                     <cell>
+                        <hi>Francis Park</hi>
+                     </cell>
+                     <cell>180</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Noneſuch Frigot</cell>
+                     <cell>
+                        <hi>Tho: Penroſe</hi>
+                     </cell>
+                     <cell>170</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Succeſſe</cell>
+                     <cell>
+                        <hi>William Kendall</hi>
+                     </cell>
+                     <cell>150</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>Welcome</cell>
+                     <cell>
+                        <hi>Tho: Harman</hi>
+                     </cell>
+                     <cell>200</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>P Oake</cell>
+                     <cell>
+                        <hi>John Edwin</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell>Brazill Friggot</cell>
+                     <cell>
+                        <hi>Tho: Heath</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>Eaſtl: Merchant</cell>
+                     <cell>
+                        <hi>John Woulters</hi>
+                     </cell>
+                     <cell>110</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell>Adventure</cell>
+                     <cell>
+                        <hi>Edward Greene</hi>
+                     </cell>
+                     <cell>160</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>Samaritan</cell>
+                     <cell>
+                        <hi>Shadrach Blake</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>P Hunter, <hi>Fireſhip,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>30</cell>
+                     <cell>10</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>The Vice-Admirals Diviſion of the Rear-Admirals Squadron.</head>
+                  <row>
+                     <cell>Vant Guard</cell>
+                     <cell>
+                        <hi>Joſeph Jorden,</hi> Vice Ad.</cell>
+                     <cell>390</cell>
+                     <cell>56</cell>
+                  </row>
+                  <row>
+                     <cell>Entrance</cell>
+                     <cell>
+                        <hi>Richard Nubery,</hi> Capt.</cell>
+                     <cell>200</cell>
+                     <cell>43</cell>
+                  </row>
+                  <row>
+                     <cell>Dragon</cell>
+                     <cell>
+                        <hi>John Seaman</hi>
+                     </cell>
+                     <cell>260</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>P Convert</cell>
+                     <cell>
+                        <hi>Phillip Githings</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell>P Paul</cell>
+                     <cell>
+                        <hi>Anthony Spatchurt</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>P Gift</cell>
+                     <cell>
+                        <hi>Tho: Salmon</hi>
+                     </cell>
+                     <cell>130</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell>Creſſent Frigot</cell>
+                     <cell>
+                        <hi>Tho: Thorowood</hi>
+                     </cell>
+                     <cell>115</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>Samuel Taboat</cell>
+                     <cell>
+                        <hi>Joſeph Ames</hi>
+                     </cell>
+                     <cell>110</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>Benjamin</cell>
+                     <cell>
+                        <hi>Robert Sparks</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell>P King Fardinando</cell>
+                     <cell>
+                        <hi>Richard Paine</hi>
+                     </cell>
+                     <cell>140</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>P Roebuck</cell>
+                     <cell>
+                        <hi>Henry Fenn</hi>
+                     </cell>
+                     <cell>100</cell>
+                     <cell>30</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>The Rear-Admirals Diviſion of the Rear-Admirals Squadron.</head>
+                  <row>
+                     <cell>Rainbow</cell>
+                     <cell>
+                        <hi>William Godſon,</hi> Rear Ad.</cell>
+                     <cell>300</cell>
+                     <cell>58</cell>
+                  </row>
+                  <row>
+                     <cell>Convertine Frigot</cell>
+                     <cell>
+                        <hi>Anthony Joyne,</hi> Capt.</cell>
+                     <cell>210</cell>
+                     <cell>44</cell>
+                  </row>
+                  <row>
+                     <cell>Amity Frigot</cell>
+                     <cell>
+                        <hi>Henry Pack</hi>
+                     </cell>
+                     <cell>150</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>Dolphin</cell>
+                     <cell>
+                        <hi>Robert Davis</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>P Armes of Holland</cell>
+                     <cell>
+                        <hi>Francis Mardrig</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell>P Tulip</cell>
+                     <cell>
+                        <hi>Joſeph Cubbit</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell>Jonathan</cell>
+                     <cell>
+                        <hi>Robert Graves</hi>
+                     </cell>
+                     <cell>110</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>P Dragoneare</cell>
+                     <cell>
+                        <hi>Edward Smith</hi>
+                     </cell>
+                     <cell>110</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell>William and John</cell>
+                     <cell>
+                        <hi>Nath: Jeſſon</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>Nichodemus Frig.</cell>
+                     <cell>
+                        <hi>William Ledgant</hi>
+                     </cell>
+                     <cell>40</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>P Bloſſome</cell>
+                     <cell>
+                        <hi>Nath: Cock</hi>
+                     </cell>
+                     <cell>110</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell cols="4">
+                        <list>
+                           <item>
+                              <hi>The Rear-Admirals Squadron conſiſting of 34 Ships.</hi>
+                           </item>
+                           <item>
+                              <hi>Mannaged by 5015 Men.</hi>
+                           </item>
+                           <item>
+                              <hi>Mounted with 1189 Guns.</hi>
+                           </item>
+                        </list>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <list>
+               <item>
+                  <hi>The Totall of Ships in the Fleet</hi> 105</item>
+               <item>
+                  <hi>The Totall of Men</hi> 16269</item>
+               <item>
+                  <hi>The Totall of Guns</hi> 3840</item>
+               <item>Beſides theſe, there have come to the Fleet, and with Generall <hi>Blake,</hi> and other Ships, above twenty, ſince the draft of this Lift, whoſe names, and number of Guns and Men, cannot be given at preſent.</item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Licenſed and Entred according to Order.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>M. Simmons,</hi> and are to be ſould at his houſe in <hi>Alderſgate</hi>-ſtreet, and by <hi>Tho: Jenner</hi> at the South-entrance of the Royall EXCHANGE. 1653.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
